@@ -1,4 +1,5 @@
-#include "Playlist.h"
+  
+  #include "Playlist.h"
 #include "AudioTrack.h"
 #include <iostream>
 #include <algorithm>
@@ -6,12 +7,123 @@ Playlist::Playlist(const std::string& name)
     : head(nullptr), playlist_name(name), track_count(0) {
     std::cout << "Created playlist: " << name << std::endl;
 }
+//בנאי מעתיק
+Playlist::Playlist(const Playlist& other) : head(nullptr), playlist_name(other.playlist_name), track_count(0) {
+    
+
+    if (!other.head)
+        return;
+
+    PlaylistNode* cur = other.head;
+    PlaylistNode* tail = nullptr;
+
+    while (cur) {
+        AudioTrack* new_track = cur->track->clone().release();
+        PlaylistNode* new_node = new PlaylistNode(new_track);
+        
+        if (!this->head) {
+        this->head = new_node;
+        tail = new_node;
+        }
+        else{
+            tail->next = new_node;
+            tail = new_node;
+        }
+        this ->track_count++;
+        cur = cur->next;
+    }
+}
+
+// בנאי השמה
+Playlist&  Playlist::operator=(const Playlist& other) {
+    if (this == &other) 
+    return *this;
+    clear(); 
+
+    this->head = nullptr;
+    this->playlist_name = other.playlist_name;
+    this->track_count = 0;
+
+    if (!other.head)
+        return *this;
+
+    PlaylistNode* cur = other.head;
+    PlaylistNode* tail = nullptr;
+
+    while (cur) {
+        AudioTrack* new_track = cur->track->clone().release();
+        PlaylistNode* new_node = new PlaylistNode(new_track);
+        
+        if (!this->head) {
+        this->head = new_node;
+        tail = new_node;
+        }
+        else{
+            tail->next = new_node;
+            tail = new_node;
+        }
+        this ->track_count++;
+        cur = cur->next;
+    }
+
+    return *this; 
+}
+
+// Move Constructor בנאי הזזה 
+Playlist::Playlist(Playlist&& other) noexcept
+    : head(other.head), 
+      playlist_name(std::move(other.playlist_name)), 
+      track_count(other.track_count) {
+    
+    
+    other.head = nullptr;
+    other.track_count = 0;
+
+    
+      }
+
+//Move Assignment Operator 
+Playlist& Playlist::operator=(Playlist&& other) noexcept {
+    if (this == &other) {
+        return *this;
+    }
+
+    clear(); 
+
+   
+    head = other.head;
+    playlist_name = std::move(other.playlist_name);
+    track_count = other.track_count;
+
+    
+    other.head = nullptr;
+    other.track_count = 0;
+
+    return *this;
+}
+
+
 // TODO: Fix memory leaks!
 // Students must fix this in Phase 1
 Playlist::~Playlist() {
+    clear();
+
     #ifdef DEBUG
     std::cout << "Destroying playlist: " << playlist_name << std::endl;
     #endif
+}
+
+// מימוש הפונקציה למחיקה 
+void Playlist::clear() {
+     PlaylistNode* current = head;
+     while (current) {
+        PlaylistNode* nxt = current->next;
+        delete current->track;
+        delete current;
+        current = nxt;
+    }
+    head = nullptr;
+    track_count =0; 
 }
 
 void Playlist::add_track(AudioTrack* track) {
@@ -50,12 +162,25 @@ void Playlist::remove_track(const std::string& title) {
             head = current->next;
         }
 
+        
         track_count--;
+
+        
+    /*הוספנו מחיקה של הצומת מהערימה*/
+
+        delete current->track ;
+        delete current ;
+
+
         std::cout << "Removed '" << title << "' from playlist" << std::endl;
 
     } else {
         std::cout << "Track '" << title << "' not found in playlist" << std::endl;
     }
+
+    
+
+
 }
 
 void Playlist::display() const {
@@ -90,6 +215,7 @@ void Playlist::display() const {
     }
     std::cout << "========================\n" << std::endl;
 }
+
 
 AudioTrack* Playlist::find_track(const std::string& title) const {
     PlaylistNode* current = head;

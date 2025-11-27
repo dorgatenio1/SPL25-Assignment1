@@ -29,6 +29,13 @@ private:
     std::string playlist_name;
     int track_count;
 
+
+   // פונקציית עזר לבנאי ההורס 
+    void clear();
+
+    //בנאי העתקה 
+    
+
 public:
     /**
      * Constructor
@@ -39,6 +46,19 @@ public:
      * Destructor
      */
     ~Playlist();
+
+
+    //בנאי מעתיק
+    Playlist(const Playlist& other);
+
+    // בנאי השמה
+    Playlist& operator=(const Playlist& other);
+
+   // Move Constructor בנאי הזזה 
+    Playlist(Playlist&& other) noexcept; 
+
+    //Move Assignment Operator 
+    Playlist& operator=(Playlist&& other) noexcept;
 
     /**
      * Add a track to the playlist
