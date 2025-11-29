@@ -120,4 +120,6 @@ private:
      * @brief Print final session summary with statistics
      */
     void print_session_summary() const;
+
+    void track_processing(std::string track_name);
 };
