@@ -9,6 +9,41 @@
 
 DJLibraryService::DJLibraryService(const Playlist& playlist) 
     : playlist(playlist), library() {}
+//הוספנו בנאי הורס כי המחלקה היא הבעלים של הספרייה שהיא מערך של AudioTrack
+DJLibraryService::~DJLibraryService() {
+    for (AudioTrack* track : library) {
+        delete track;
+    }
+    library.clear();
+}
+
+DJLibraryService::DJLibraryService(const DJLibraryService& other) {
+    playlist = other.playlist;
+    for (const AudioTrack* original_track : other.library) {
+        if (original_track) {
+            PointerWrapper<AudioTrack> cloned_track = original_track->clone();
+            library.push_back(cloned_track.release());
+        }
+    }
+}
+
+DJLibraryService&  DJLibraryService::operator=(const DJLibraryService& other) {
+    if (this != &other) {
+        for (AudioTrack* track : library) {
+        delete track;
+    }
+    library.clear();
+    playlist = other.playlist;
+    for (const AudioTrack* original_track : other.library) {
+        if (original_track) {
+            PointerWrapper<AudioTrack> cloned_track = original_track->clone();
+            library.push_back(cloned_track.release());
+            }
+        }
+    }
+    return *this;
+}
+
 /**
  * @brief Load a playlist from track indices referencing the library
  * @param library_tracks Vector of track info from config
@@ -79,8 +114,6 @@ Playlist& DJLibraryService::getPlaylist() {
  */
 AudioTrack* DJLibraryService::findTrack(const std::string& track_title) {
     AudioTrack* track = playlist.find_track(track_title); 
-    
-
     // Your implementation here
     return track; // Placeholder
 }
@@ -136,9 +169,7 @@ std::vector<std::string> DJLibraryService::getTrackTitles() const {
     for( AudioTrack* track : tracks  ){
         if (track) 
             TrackTitles.push_back(track ->get_title()); 
-        
     }
-
     return TrackTitles ; // Placeholder
 
 

@@ -35,11 +35,8 @@ bool DJSession::load_playlist(const std::string& playlist_name)  {
     auto it = session_config.playlists.find(playlist_name);
     if (it == session_config.playlists.end()) {
         std::cerr << "[ERROR] Playlist '" << playlist_name << "' not found in configuration.\n";
-        stats.errors ++ ; 
-        return 0;
+        return false;
     }
-    
-
     
     // Load playlist from track indices
     library_service.loadPlaylistFromIndices(playlist_name, it->second);
@@ -75,14 +72,14 @@ bool DJSession::load_playlist(const std::string& playlist_name)  {
 
  */
 int DJSession::load_track_to_controller(const std::string& track_name) {
-
-    AudioTrack* track = library_service.findTrack(track_name); 
-    if(!track){
-        std::cout << "[ERROR] Track : \"" << track_name << "\" not found in library" << std::endl;
-
+    AudioTrack* track = library_service.findTrack(track_name);
+     if (!track) {
+        std::cerr << "[ERROR] Track: \"" << track_name << "\" not found in library" << std::endl;
+        stats.errors++;
+        return 0;
     }
- 
-    // Your implementation here
+    std::cout << "[System] Loading track '" << track_name << "' to controller..." << std::endl;
+    int cache_result = controller_service.loadTrackToCache(*track);
     return 0; // Placeholder
 }
 
