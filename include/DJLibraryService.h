@@ -15,9 +15,10 @@ class DJLibraryService {
 public:
     DJLibraryService(const Playlist& playlist);
     DJLibraryService(): playlist(), library(){}
-    ~DJLibraryService();
     DJLibraryService(const DJLibraryService& other);
-    DJLibraryService&  DJLibraryService::operator=(const DJLibraryService& other);
+    DJLibraryService& operator=(const DJLibraryService& other);
+    ~DJLibraryService();
+
     /**
      * @brief Build the track library from parsed config data
      * @param library_tracks Vector of track info from config
