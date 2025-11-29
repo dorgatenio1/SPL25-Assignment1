@@ -174,6 +174,7 @@ void DJSession::simulate_dj_performance() {
         track_processing(selected_playlist);
         }
     }
+    std::cout << "\nSession cancelled by user or all playlists played." << std::endl;
 }
 
 
@@ -274,7 +275,7 @@ void DJSession::print_session_summary() const {
             stats.tracks_processed++;
             load_track_to_controller(track_title);
             load_track_to_mixer_deck(track_title);
-            print_session_summary();
-            stats = SessionStats();
         }
+        print_session_summary();
+        stats = SessionStats();
 }
