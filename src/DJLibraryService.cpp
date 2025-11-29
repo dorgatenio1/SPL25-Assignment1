@@ -78,14 +78,19 @@ Playlist& DJLibraryService::getPlaylist() {
  * HINT: Leverage Playlist's find_track method
  */
 AudioTrack* DJLibraryService::findTrack(const std::string& track_title) {
+    AudioTrack* track = playlist.find_track(track_title); 
+    
+
     // Your implementation here
-    return nullptr; // Placeholder
+    return track; // Placeholder
 }
 
 void DJLibraryService::loadPlaylistFromIndices(const std::string& playlist_name, 
                                                const std::vector<int>& track_indices) {
     // Your implementation here
    std::cout << "[INFO] Loading playlist: " << playlist_name << std::endl;
+
+   //בשביל זה היינו צריכים לממש את חוק ה-5 בפליליסט
     playlist = Playlist(playlist_name);
     
     
@@ -124,5 +129,17 @@ void DJLibraryService::loadPlaylistFromIndices(const std::string& playlist_name,
  */
 std::vector<std::string> DJLibraryService::getTrackTitles() const {
     // Your implementation here
-    return std::vector<std::string>(); // Placeholder
+    std::vector<std::string> TrackTitles ; 
+    std::vector<AudioTrack*> tracks = playlist.getTracks();
+
+
+    for( AudioTrack* track : tracks  ){
+        if (track) 
+            TrackTitles.push_back(track ->get_title()); 
+        
+    }
+
+    return TrackTitles ; // Placeholder
+
+
 }
