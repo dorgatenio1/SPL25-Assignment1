@@ -161,8 +161,8 @@ void DJSession::simulate_dj_performance() {
             playlist_names.push_back(pair.first);
     }
         std::sort(playlist_names.begin(), playlist_names.end());
-        for (const std::string& playlist_track : playlist_names) {
-            track_processing(playlist_track);
+        for (const std::string& playlist_name : playlist_names) {
+            track_processing(playlist_name);
         }
     }
     else {
@@ -266,13 +266,15 @@ void DJSession::print_session_summary() const {
 
     void DJSession::track_processing(std::string playlist_name){
         if (!load_playlist(playlist_name)) {
-            std::cerr << "[ERROR] Failed to load playlist" << std::endl;
+            std::cerr << "[ERROR] Failed to load playlist: " << playlist_name << std::endl;
             return;
         }
         for (const std::string& track_title : track_titles) {
-            std::cout << "\n-- Processing: " << playlist_name << " --" << std::endl;
+            std::cout << "\n-- Processing: " << track_title << " --" << std::endl;
             stats.tracks_processed++;
-            int value = load_track_to_controller(track_title);
-            
+            load_track_to_controller(track_title);
+            load_track_to_mixer_deck(track_title);
+            print_session_summary();
+            stats = SessionStats();
         }
 }
