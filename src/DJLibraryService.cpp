@@ -121,31 +121,33 @@ void DJLibraryService::loadPlaylistFromIndices(const std::string& playlist_name,
                                                const std::vector<int>& track_indices) {
     std::cout << "[INFO] Loading playlist: " << playlist_name << std::endl;
     playlist = Playlist(playlist_name);
-   
-    
-    for (size_t i = 0; i < track_indices.size(); ++i) {
+   for (size_t i = 0; i < track_indices.size(); ++i) {
         int index = track_indices[i];
 
+        
         if (index < 1 || static_cast<size_t>(index) > library.size()) {
             std::cout << "[WARNING] Invalid track index: " << index << std::endl;
             continue;
         }
-       
-        AudioTrack* curr_org = library[index-1];
-        PointerWrapper<AudioTrack> clone_track = curr_org->clone();
+        
+        
+        AudioTrack* curr_org = library[index-1]; 
+        PointerWrapper<AudioTrack> clone_track = curr_org->clone(); 
         AudioTrack* Un_Wrap_track = clone_track.release();
-       
+        
         if (!Un_Wrap_track) {
             std::cerr << "[ERROR] Failed to clone track" << std::endl;
         }
-        else {
-            Un_Wrap_track->load();
+        else { 
+            Un_Wrap_track->load(); 
             Un_Wrap_track->analyze_beatgrid();
-            playlist.add_track(Un_Wrap_track);
-        }          
+            
+            
+            playlist.add_track(Un_Wrap_track); 
+        }
     }
-   
-    std::cout << "[INFO] Playlist loaded: " << playlist_name
+    
+    std::cout << "[INFO] Playlist loaded: " << playlist_name 
               << " (" << playlist.get_track_count() << " tracks)" << std::endl;
 }
 

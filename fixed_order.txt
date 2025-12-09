@@ -12,117 +12,228 @@ BPM Tolerance: 14 BPM
 Auto Sync: enabled
 Cache Size: 4 slots
 MP3Track created: 256 kbps
+MP3Track created:256 kbps
 WAVTrack created: 44100Hz/24bit
+WAVTrack created:44100Hz/24bit
 MP3Track created: 320 kbps
+MP3Track created:320 kbps
 MP3Track created: 256 kbps
+MP3Track created:256 kbps
 MP3Track created: 192 kbps
+MP3Track created:192 kbps
 MP3Track created: 192 kbps
+MP3Track created:192 kbps
 MP3Track created: 256 kbps
+MP3Track created:256 kbps
 WAVTrack created: 96000Hz/16bit
+WAVTrack created:96000Hz/16bit
 MP3Track created: 192 kbps
+MP3Track created:192 kbps
 MP3Track created: 192 kbps
+MP3Track created:192 kbps
 MP3Track created: 320 kbps
+MP3Track created:320 kbps
 MP3Track created: 320 kbps
+MP3Track created:320 kbps
 MP3Track created: 320 kbps
+MP3Track created:320 kbps
 MP3Track created: 320 kbps
+MP3Track created:320 kbps
 MP3Track created: 320 kbps
+MP3Track created:320 kbps
 MP3Track created: 192 kbps
+MP3Track created:192 kbps
 MP3Track created: 192 kbps
+MP3Track created:192 kbps
 MP3Track created: 256 kbps
+MP3Track created:256 kbps
 MP3Track created: 192 kbps
+MP3Track created:192 kbps
 MP3Track created: 192 kbps
+MP3Track created:192 kbps
 MP3Track created: 320 kbps
+MP3Track created:320 kbps
 WAVTrack created: 48000Hz/16bit
+WAVTrack created:48000Hz/16bit
 MP3Track created: 256 kbps
+MP3Track created:256 kbps
 MP3Track created: 192 kbps
+MP3Track created:192 kbps
 MP3Track created: 192 kbps
+MP3Track created:192 kbps
 MP3Track created: 256 kbps
+MP3Track created:256 kbps
 MP3Track created: 192 kbps
+MP3Track created:192 kbps
 MP3Track created: 256 kbps
+MP3Track created:256 kbps
 MP3Track created: 256 kbps
+MP3Track created:256 kbps
 WAVTrack created: 48000Hz/16bit
+WAVTrack created:48000Hz/16bit
 MP3Track created: 256 kbps
+MP3Track created:256 kbps
 WAVTrack created: 44100Hz/16bit
+WAVTrack created:44100Hz/16bit
 MP3Track created: 256 kbps
+MP3Track created:256 kbps
 WAVTrack created: 44100Hz/24bit
+WAVTrack created:44100Hz/24bit
 MP3Track created: 256 kbps
+MP3Track created:256 kbps
 WAVTrack created: 44100Hz/16bit
+WAVTrack created:44100Hz/16bit
 WAVTrack created: 48000Hz/16bit
+WAVTrack created:48000Hz/16bit
 WAVTrack created: 48000Hz/16bit
+WAVTrack created:48000Hz/16bit
 MP3Track created: 256 kbps
+MP3Track created:256 kbps
 WAVTrack created: 48000Hz/16bit
+WAVTrack created:48000Hz/16bit
 MP3Track created: 256 kbps
+MP3Track created:256 kbps
 WAVTrack created: 48000Hz/16bit
+WAVTrack created:48000Hz/16bit
 MP3Track created: 192 kbps
+MP3Track created:192 kbps
 WAVTrack created: 48000Hz/16bit
+WAVTrack created:48000Hz/16bit
 MP3Track created: 320 kbps
+MP3Track created:320 kbps
 MP3Track created: 256 kbps
+MP3Track created:256 kbps
 MP3Track created: 192 kbps
+MP3Track created:192 kbps
 WAVTrack created: 96000Hz/24bit
+WAVTrack created:96000Hz/24bit
 MP3Track created: 256 kbps
+MP3Track created:256 kbps
 MP3Track created: 256 kbps
+MP3Track created:256 kbps
 MP3Track created: 320 kbps
+MP3Track created:320 kbps
 MP3Track created: 256 kbps
+MP3Track created:256 kbps
 MP3Track created: 320 kbps
+MP3Track created:320 kbps
 MP3Track created: 256 kbps
+MP3Track created:256 kbps
 WAVTrack created: 44100Hz/24bit
+WAVTrack created:44100Hz/24bit
 MP3Track created: 256 kbps
+MP3Track created:256 kbps
 MP3Track created: 320 kbps
+MP3Track created:320 kbps
 MP3Track created: 256 kbps
+MP3Track created:256 kbps
 MP3Track created: 192 kbps
+MP3Track created:192 kbps
 MP3Track created: 256 kbps
+MP3Track created:256 kbps
 MP3Track created: 320 kbps
+MP3Track created:320 kbps
 MP3Track created: 320 kbps
+MP3Track created:320 kbps
 MP3Track created: 256 kbps
+MP3Track created:256 kbps
 MP3Track created: 320 kbps
+MP3Track created:320 kbps
 MP3Track created: 320 kbps
+MP3Track created:320 kbps
 MP3Track created: 256 kbps
+MP3Track created:256 kbps
 MP3Track created: 256 kbps
+MP3Track created:256 kbps
 WAVTrack created: 44100Hz/24bit
+WAVTrack created:44100Hz/24bit
 MP3Track created: 320 kbps
+MP3Track created:320 kbps
 MP3Track created: 192 kbps
+MP3Track created:192 kbps
 WAVTrack created: 48000Hz/24bit
+WAVTrack created:48000Hz/24bit
 MP3Track created: 256 kbps
+MP3Track created:256 kbps
 MP3Track created: 256 kbps
+MP3Track created:256 kbps
 MP3Track created: 256 kbps
+MP3Track created:256 kbps
 MP3Track created: 192 kbps
+MP3Track created:192 kbps
 MP3Track created: 256 kbps
+MP3Track created:256 kbps
 WAVTrack created: 44100Hz/24bit
+WAVTrack created:44100Hz/24bit
 MP3Track created: 256 kbps
+MP3Track created:256 kbps
 MP3Track created: 192 kbps
+MP3Track created:192 kbps
 MP3Track created: 320 kbps
+MP3Track created:320 kbps
 WAVTrack created: 96000Hz/24bit
+WAVTrack created:96000Hz/24bit
 MP3Track created: 256 kbps
+MP3Track created:256 kbps
 MP3Track created: 192 kbps
+MP3Track created:192 kbps
 MP3Track created: 256 kbps
+MP3Track created:256 kbps
 MP3Track created: 320 kbps
+MP3Track created:320 kbps
 WAVTrack created: 96000Hz/24bit
+WAVTrack created:96000Hz/24bit
 MP3Track created: 256 kbps
+MP3Track created:256 kbps
 WAVTrack created: 48000Hz/16bit
+WAVTrack created:48000Hz/16bit
 WAVTrack created: 44100Hz/24bit
+WAVTrack created:44100Hz/24bit
 WAVTrack created: 44100Hz/24bit
+WAVTrack created:44100Hz/24bit
 WAVTrack created: 96000Hz/24bit
+WAVTrack created:96000Hz/24bit
 MP3Track created: 192 kbps
+MP3Track created:192 kbps
 MP3Track created: 256 kbps
+MP3Track created:256 kbps
 WAVTrack created: 48000Hz/24bit
+WAVTrack created:48000Hz/24bit
 MP3Track created: 320 kbps
+MP3Track created:320 kbps
 WAVTrack created: 44100Hz/24bit
+WAVTrack created:44100Hz/24bit
 MP3Track created: 256 kbps
+MP3Track created:256 kbps
 MP3Track created: 192 kbps
+MP3Track created:192 kbps
 WAVTrack created: 44100Hz/16bit
+WAVTrack created:44100Hz/16bit
 WAVTrack created: 96000Hz/24bit
+WAVTrack created:96000Hz/24bit
 MP3Track created: 320 kbps
+MP3Track created:320 kbps
 WAVTrack created: 44100Hz/16bit
+WAVTrack created:44100Hz/16bit
 MP3Track created: 320 kbps
+MP3Track created:320 kbps
 MP3Track created: 320 kbps
+MP3Track created:320 kbps
 MP3Track created: 320 kbps
+MP3Track created:320 kbps
 WAVTrack created: 44100Hz/24bit
+WAVTrack created:44100Hz/24bit
 MP3Track created: 256 kbps
+MP3Track created:256 kbps
 WAVTrack created: 44100Hz/24bit
+WAVTrack created:44100Hz/24bit
 MP3Track created: 256 kbps
+MP3Track created:256 kbps
 WAVTrack created: 44100Hz/16bit
+WAVTrack created:44100Hz/16bit
 MP3Track created: 320 kbps
-[INFO] Track library built: 111 tracks loaded
+MP3Track created:320 kbps
+[INFO] Track library built:111tracks loaded
 
 Starting DJ performance simulation...
 BPM Tolerance: 14 BPM
@@ -133,199 +244,13 @@ Cache Capacity: 4 slots (LRU policy)
 [System] Loading playlist: armin_van_buuren_ASOT_1250
 [INFO] Loading playlist: armin_van_buuren_ASOT_1250
 Created playlist: armin_van_buuren_ASOT_1250
-[MP3Track::load] Loading MP3: "Right Back" at 256 kbps...
-  → Processing ID3 metadata (artist info, album art, etc.)...
-  → Decoding MP3 frames...
-  → Load complete.
-[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Right Back"
-  → Estimated beats: 779  → Compression precision factor: 0.8
-Added 'Right Back' to playlist 'armin_van_buuren_ASOT_1250'
-[WAVTrack::load] Loading WAV: "Concrete Angel" at 44100Hz/24bit (uncompressed)...
-  → Estimated file size: 80967600 bytes
+[WAVTrack::load] Loading WAV: "Drum's A Weapon" at 48000Hz/16bit (uncompressed)...
+  → Estimated file size: 46080000 bytes
   → Fast loading due to uncompressed format.
-[WAVTrack::analyze_beatgrid] Analyzing beat grid for: "Concrete Angel"
-  → Estimated beats: 622  → Precision factor: 1 (uncompressed audio)
-Added 'Concrete Angel' to playlist 'armin_van_buuren_ASOT_1250'
-[MP3Track::load] Loading MP3: "Saving Light" at 320 kbps...
-  → Processing ID3 metadata (artist info, album art, etc.)...
-  → Decoding MP3 frames...
-  → Load complete.
-[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Saving Light"
-  → Estimated beats: 634  → Compression precision factor: 1
-Added 'Saving Light' to playlist 'armin_van_buuren_ASOT_1250'
-[MP3Track::load] Loading MP3: "No One On Earth" at 256 kbps...
-  → Processing ID3 metadata (artist info, album art, etc.)...
-  → Decoding MP3 frames...
-  → Load complete.
-[MP3Track::analyze_beatgrid] Analyzing beat grid for: "No One On Earth"
-  → Estimated beats: 605  → Compression precision factor: 0.8
-Added 'No One On Earth' to playlist 'armin_van_buuren_ASOT_1250'
-[MP3Track::load] Loading MP3: "Lighter Than Air" at 192 kbps...
-  → Processing ID3 metadata (artist info, album art, etc.)...
-  → Decoding MP3 frames...
-  → Load complete.
-[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Lighter Than Air"
-  → Estimated beats: 582  → Compression precision factor: 0.6
-Added 'Lighter Than Air' to playlist 'armin_van_buuren_ASOT_1250'
-[MP3Track::load] Loading MP3: "Tuvan" at 192 kbps...
-  → Processing ID3 metadata (artist info, album art, etc.)...
-  → Decoding MP3 frames...
-  → Load complete.
-[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Tuvan"
-  → Estimated beats: 597  → Compression precision factor: 0.6
-Added 'Tuvan' to playlist 'armin_van_buuren_ASOT_1250'
-[MP3Track::load] Loading MP3: "Anahera" at 256 kbps...
-  → Processing ID3 metadata (artist info, album art, etc.)...
-  → Decoding MP3 frames...
-  → Load complete.
-[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Anahera"
-  → Estimated beats: 931  → Compression precision factor: 0.8
-Added 'Anahera' to playlist 'armin_van_buuren_ASOT_1250'
-[WAVTrack::load] Loading WAV: "U" at 96000Hz/16bit (uncompressed)...
-  → Estimated file size: 84864000 bytes
-  → Fast loading due to uncompressed format.
-[WAVTrack::analyze_beatgrid] Analyzing beat grid for: "U"
-  → Estimated beats: 504  → Precision factor: 1 (uncompressed audio)
-Added 'U' to playlist 'armin_van_buuren_ASOT_1250'
-[MP3Track::load] Loading MP3: "Southern Sun" at 192 kbps...
-  → Processing ID3 metadata (artist info, album art, etc.)...
-  → Decoding MP3 frames...
-  → Load complete.
-[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Southern Sun"
-  → Estimated beats: 569  → Compression precision factor: 0.6
-Added 'Southern Sun' to playlist 'armin_van_buuren_ASOT_1250'
-[MP3Track::load] Loading MP3: "Take This" at 192 kbps...
-  → Processing ID3 metadata (artist info, album art, etc.)...
-  → Decoding MP3 frames...
-  → Load complete.
-[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Take This"
-  → Estimated beats: 625  → Compression precision factor: 0.6
-Added 'Take This' to playlist 'armin_van_buuren_ASOT_1250'
-[MP3Track::load] Loading MP3: "Intense" at 320 kbps...
-  → Processing ID3 metadata (artist info, album art, etc.)...
-  → Decoding MP3 frames...
-  → Load complete.
-[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Intense"
-  → Estimated beats: 714  → Compression precision factor: 1
-Added 'Intense' to playlist 'armin_van_buuren_ASOT_1250'
-[MP3Track::load] Loading MP3: "Destination (ASOT 2024 Anthem)" at 320 kbps...
-  → Processing ID3 metadata (artist info, album art, etc.)...
-  → Decoding MP3 frames...
-  → Load complete.
-[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Destination (ASOT 2024 Anthem)"
-  → Estimated beats: 858  → Compression precision factor: 1
-Added 'Destination (ASOT 2024 Anthem)' to playlist 'armin_van_buuren_ASOT_1250'
-[MP3Track::load] Loading MP3: "What Took You So Long" at 320 kbps...
-  → Processing ID3 metadata (artist info, album art, etc.)...
-  → Decoding MP3 frames...
-  → Load complete.
-[MP3Track::analyze_beatgrid] Analyzing beat grid for: "What Took You So Long"
-  → Estimated beats: 589  → Compression precision factor: 1
-Added 'What Took You So Long' to playlist 'armin_van_buuren_ASOT_1250'
-[MP3Track::load] Loading MP3: "Just As You Are" at 320 kbps...
-  → Processing ID3 metadata (artist info, album art, etc.)...
-  → Decoding MP3 frames...
-  → Load complete.
-[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Just As You Are"
-  → Estimated beats: 470  → Compression precision factor: 1
-Added 'Just As You Are' to playlist 'armin_van_buuren_ASOT_1250'
-[MP3Track::load] Loading MP3: "The Air I Breathe" at 320 kbps...
-  → Processing ID3 metadata (artist info, album art, etc.)...
-  → Decoding MP3 frames...
-  → Load complete.
-[MP3Track::analyze_beatgrid] Analyzing beat grid for: "The Air I Breathe"
-  → Estimated beats: 694  → Compression precision factor: 1
-Added 'The Air I Breathe' to playlist 'armin_van_buuren_ASOT_1250'
-[MP3Track::load] Loading MP3: "For All Time" at 192 kbps...
-  → Processing ID3 metadata (artist info, album art, etc.)...
-  → Decoding MP3 frames...
-  → Load complete.
-[MP3Track::analyze_beatgrid] Analyzing beat grid for: "For All Time"
-  → Estimated beats: 933  → Compression precision factor: 0.6
-Added 'For All Time' to playlist 'armin_van_buuren_ASOT_1250'
-[MP3Track::load] Loading MP3: "We Control The Sunlight" at 192 kbps...
-  → Processing ID3 metadata (artist info, album art, etc.)...
-  → Decoding MP3 frames...
-  → Load complete.
-[MP3Track::analyze_beatgrid] Analyzing beat grid for: "We Control The Sunlight"
-  → Estimated beats: 853  → Compression precision factor: 0.6
-Added 'We Control The Sunlight' to playlist 'armin_van_buuren_ASOT_1250'
-[MP3Track::load] Loading MP3: "Blueprint" at 256 kbps...
-  → Processing ID3 metadata (artist info, album art, etc.)...
-  → Decoding MP3 frames...
-  → Load complete.
-[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Blueprint"
-  → Estimated beats: 676  → Compression precision factor: 0.8
-Added 'Blueprint' to playlist 'armin_van_buuren_ASOT_1250'
-[MP3Track::load] Loading MP3: "Homeward" at 192 kbps...
-  → Processing ID3 metadata (artist info, album art, etc.)...
-  → Decoding MP3 frames...
-  → Load complete.
-[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Homeward"
-  → Estimated beats: 734  → Compression precision factor: 0.6
-Added 'Homeward' to playlist 'armin_van_buuren_ASOT_1250'
-[MP3Track::load] Loading MP3: "We're Not Going Home" at 192 kbps...
-  → Processing ID3 metadata (artist info, album art, etc.)...
-  → Decoding MP3 frames...
-  → Load complete.
-[MP3Track::analyze_beatgrid] Analyzing beat grid for: "We're Not Going Home"
-  → Estimated beats: 635  → Compression precision factor: 0.6
-Added 'We're Not Going Home' to playlist 'armin_van_buuren_ASOT_1250'
-[MP3Track::load] Loading MP3: "Lemme Take You" at 320 kbps...
-  → Processing ID3 metadata (artist info, album art, etc.)...
-  → Decoding MP3 frames...
-  → Load complete.
-[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Lemme Take You"
-  → Estimated beats: 821  → Compression precision factor: 1
-Added 'Lemme Take You' to playlist 'armin_van_buuren_ASOT_1250'
-[WAVTrack::load] Loading WAV: "Bloodstream" at 48000Hz/16bit (uncompressed)...
-  → Estimated file size: 68352000 bytes
-  → Fast loading due to uncompressed format.
-[WAVTrack::analyze_beatgrid] Analyzing beat grid for: "Bloodstream"
-  → Estimated beats: 801  → Precision factor: 1 (uncompressed audio)
-Added 'Bloodstream' to playlist 'armin_van_buuren_ASOT_1250'
-[MP3Track::load] Loading MP3: "Rock Your Body Rock" at 256 kbps...
-  → Processing ID3 metadata (artist info, album art, etc.)...
-  → Decoding MP3 frames...
-  → Load complete.
-[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Rock Your Body Rock"
-  → Estimated beats: 714  → Compression precision factor: 0.8
-Added 'Rock Your Body Rock' to playlist 'armin_van_buuren_ASOT_1250'
-[MP3Track::load] Loading MP3: "Voema" at 192 kbps...
-  → Processing ID3 metadata (artist info, album art, etc.)...
-  → Decoding MP3 frames...
-  → Load complete.
-[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Voema"
-  → Estimated beats: 574  → Compression precision factor: 0.6
-Added 'Voema' to playlist 'armin_van_buuren_ASOT_1250'
-[MP3Track::load] Loading MP3: "Not Coming Down" at 192 kbps...
-  → Processing ID3 metadata (artist info, album art, etc.)...
-  → Decoding MP3 frames...
-  → Load complete.
-[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Not Coming Down"
-  → Estimated beats: 699  → Compression precision factor: 0.6
-Added 'Not Coming Down' to playlist 'armin_van_buuren_ASOT_1250'
-[MP3Track::load] Loading MP3: "Mo Chara" at 256 kbps...
-  → Processing ID3 metadata (artist info, album art, etc.)...
-  → Decoding MP3 frames...
-  → Load complete.
-[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Mo Chara"
-  → Estimated beats: 660  → Compression precision factor: 0.8
-Added 'Mo Chara' to playlist 'armin_van_buuren_ASOT_1250'
-[MP3Track::load] Loading MP3: "Brain Box" at 192 kbps...
-  → Processing ID3 metadata (artist info, album art, etc.)...
-  → Decoding MP3 frames...
-  → Load complete.
-[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Brain Box"
-  → Estimated beats: 747  → Compression precision factor: 0.6
-Added 'Brain Box' to playlist 'armin_van_buuren_ASOT_1250'
-[MP3Track::load] Loading MP3: "Sweet Sorrow" at 256 kbps...
-  → Processing ID3 metadata (artist info, album art, etc.)...
-  → Decoding MP3 frames...
-  → Load complete.
-[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Sweet Sorrow"
-  → Estimated beats: 707  → Compression precision factor: 0.8
-Added 'Sweet Sorrow' to playlist 'armin_van_buuren_ASOT_1250'
+[WAVTrack::analyze_beatgrid] Analyzing beat grid for: "Drum's A Weapon"
+  → Estimated beats: 520  → Precision factor: 1 (uncompressed audio)
+Added 'Drum's A Weapon' to playlist 'armin_van_buuren_ASOT_1250'
+Added 'Drum's A Weapon' to playlist 'armin_van_buuren_ASOT_1250'
 [MP3Track::load] Loading MP3: "Ligaya" at 256 kbps...
   → Processing ID3 metadata (artist info, album art, etc.)...
   → Decoding MP3 frames...
@@ -333,12 +258,228 @@ Added 'Sweet Sorrow' to playlist 'armin_van_buuren_ASOT_1250'
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Ligaya"
   → Estimated beats: 660  → Compression precision factor: 0.8
 Added 'Ligaya' to playlist 'armin_van_buuren_ASOT_1250'
-[WAVTrack::load] Loading WAV: "Drum's A Weapon" at 48000Hz/16bit (uncompressed)...
-  → Estimated file size: 46080000 bytes
+Added 'Ligaya' to playlist 'armin_van_buuren_ASOT_1250'
+[MP3Track::load] Loading MP3: "Sweet Sorrow" at 256 kbps...
+  → Processing ID3 metadata (artist info, album art, etc.)...
+  → Decoding MP3 frames...
+  → Load complete.
+[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Sweet Sorrow"
+  → Estimated beats: 707  → Compression precision factor: 0.8
+Added 'Sweet Sorrow' to playlist 'armin_van_buuren_ASOT_1250'
+Added 'Sweet Sorrow' to playlist 'armin_van_buuren_ASOT_1250'
+[MP3Track::load] Loading MP3: "Brain Box" at 192 kbps...
+  → Processing ID3 metadata (artist info, album art, etc.)...
+  → Decoding MP3 frames...
+  → Load complete.
+[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Brain Box"
+  → Estimated beats: 747  → Compression precision factor: 0.6
+Added 'Brain Box' to playlist 'armin_van_buuren_ASOT_1250'
+Added 'Brain Box' to playlist 'armin_van_buuren_ASOT_1250'
+[MP3Track::load] Loading MP3: "Mo Chara" at 256 kbps...
+  → Processing ID3 metadata (artist info, album art, etc.)...
+  → Decoding MP3 frames...
+  → Load complete.
+[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Mo Chara"
+  → Estimated beats: 660  → Compression precision factor: 0.8
+Added 'Mo Chara' to playlist 'armin_van_buuren_ASOT_1250'
+Added 'Mo Chara' to playlist 'armin_van_buuren_ASOT_1250'
+[MP3Track::load] Loading MP3: "Not Coming Down" at 192 kbps...
+  → Processing ID3 metadata (artist info, album art, etc.)...
+  → Decoding MP3 frames...
+  → Load complete.
+[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Not Coming Down"
+  → Estimated beats: 699  → Compression precision factor: 0.6
+Added 'Not Coming Down' to playlist 'armin_van_buuren_ASOT_1250'
+Added 'Not Coming Down' to playlist 'armin_van_buuren_ASOT_1250'
+[MP3Track::load] Loading MP3: "Voema" at 192 kbps...
+  → Processing ID3 metadata (artist info, album art, etc.)...
+  → Decoding MP3 frames...
+  → Load complete.
+[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Voema"
+  → Estimated beats: 574  → Compression precision factor: 0.6
+Added 'Voema' to playlist 'armin_van_buuren_ASOT_1250'
+Added 'Voema' to playlist 'armin_van_buuren_ASOT_1250'
+[MP3Track::load] Loading MP3: "Rock Your Body Rock" at 256 kbps...
+  → Processing ID3 metadata (artist info, album art, etc.)...
+  → Decoding MP3 frames...
+  → Load complete.
+[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Rock Your Body Rock"
+  → Estimated beats: 714  → Compression precision factor: 0.8
+Added 'Rock Your Body Rock' to playlist 'armin_van_buuren_ASOT_1250'
+Added 'Rock Your Body Rock' to playlist 'armin_van_buuren_ASOT_1250'
+[WAVTrack::load] Loading WAV: "Bloodstream" at 48000Hz/16bit (uncompressed)...
+  → Estimated file size: 68352000 bytes
   → Fast loading due to uncompressed format.
-[WAVTrack::analyze_beatgrid] Analyzing beat grid for: "Drum's A Weapon"
-  → Estimated beats: 520  → Precision factor: 1 (uncompressed audio)
-Added 'Drum's A Weapon' to playlist 'armin_van_buuren_ASOT_1250'
+[WAVTrack::analyze_beatgrid] Analyzing beat grid for: "Bloodstream"
+  → Estimated beats: 801  → Precision factor: 1 (uncompressed audio)
+Added 'Bloodstream' to playlist 'armin_van_buuren_ASOT_1250'
+Added 'Bloodstream' to playlist 'armin_van_buuren_ASOT_1250'
+[MP3Track::load] Loading MP3: "Lemme Take You" at 320 kbps...
+  → Processing ID3 metadata (artist info, album art, etc.)...
+  → Decoding MP3 frames...
+  → Load complete.
+[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Lemme Take You"
+  → Estimated beats: 821  → Compression precision factor: 1
+Added 'Lemme Take You' to playlist 'armin_van_buuren_ASOT_1250'
+Added 'Lemme Take You' to playlist 'armin_van_buuren_ASOT_1250'
+[MP3Track::load] Loading MP3: "We're Not Going Home" at 192 kbps...
+  → Processing ID3 metadata (artist info, album art, etc.)...
+  → Decoding MP3 frames...
+  → Load complete.
+[MP3Track::analyze_beatgrid] Analyzing beat grid for: "We're Not Going Home"
+  → Estimated beats: 635  → Compression precision factor: 0.6
+Added 'We're Not Going Home' to playlist 'armin_van_buuren_ASOT_1250'
+Added 'We're Not Going Home' to playlist 'armin_van_buuren_ASOT_1250'
+[MP3Track::load] Loading MP3: "Homeward" at 192 kbps...
+  → Processing ID3 metadata (artist info, album art, etc.)...
+  → Decoding MP3 frames...
+  → Load complete.
+[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Homeward"
+  → Estimated beats: 734  → Compression precision factor: 0.6
+Added 'Homeward' to playlist 'armin_van_buuren_ASOT_1250'
+Added 'Homeward' to playlist 'armin_van_buuren_ASOT_1250'
+[MP3Track::load] Loading MP3: "Blueprint" at 256 kbps...
+  → Processing ID3 metadata (artist info, album art, etc.)...
+  → Decoding MP3 frames...
+  → Load complete.
+[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Blueprint"
+  → Estimated beats: 676  → Compression precision factor: 0.8
+Added 'Blueprint' to playlist 'armin_van_buuren_ASOT_1250'
+Added 'Blueprint' to playlist 'armin_van_buuren_ASOT_1250'
+[MP3Track::load] Loading MP3: "We Control The Sunlight" at 192 kbps...
+  → Processing ID3 metadata (artist info, album art, etc.)...
+  → Decoding MP3 frames...
+  → Load complete.
+[MP3Track::analyze_beatgrid] Analyzing beat grid for: "We Control The Sunlight"
+  → Estimated beats: 853  → Compression precision factor: 0.6
+Added 'We Control The Sunlight' to playlist 'armin_van_buuren_ASOT_1250'
+Added 'We Control The Sunlight' to playlist 'armin_van_buuren_ASOT_1250'
+[MP3Track::load] Loading MP3: "For All Time" at 192 kbps...
+  → Processing ID3 metadata (artist info, album art, etc.)...
+  → Decoding MP3 frames...
+  → Load complete.
+[MP3Track::analyze_beatgrid] Analyzing beat grid for: "For All Time"
+  → Estimated beats: 933  → Compression precision factor: 0.6
+Added 'For All Time' to playlist 'armin_van_buuren_ASOT_1250'
+Added 'For All Time' to playlist 'armin_van_buuren_ASOT_1250'
+[MP3Track::load] Loading MP3: "The Air I Breathe" at 320 kbps...
+  → Processing ID3 metadata (artist info, album art, etc.)...
+  → Decoding MP3 frames...
+  → Load complete.
+[MP3Track::analyze_beatgrid] Analyzing beat grid for: "The Air I Breathe"
+  → Estimated beats: 694  → Compression precision factor: 1
+Added 'The Air I Breathe' to playlist 'armin_van_buuren_ASOT_1250'
+Added 'The Air I Breathe' to playlist 'armin_van_buuren_ASOT_1250'
+[MP3Track::load] Loading MP3: "Just As You Are" at 320 kbps...
+  → Processing ID3 metadata (artist info, album art, etc.)...
+  → Decoding MP3 frames...
+  → Load complete.
+[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Just As You Are"
+  → Estimated beats: 470  → Compression precision factor: 1
+Added 'Just As You Are' to playlist 'armin_van_buuren_ASOT_1250'
+Added 'Just As You Are' to playlist 'armin_van_buuren_ASOT_1250'
+[MP3Track::load] Loading MP3: "What Took You So Long" at 320 kbps...
+  → Processing ID3 metadata (artist info, album art, etc.)...
+  → Decoding MP3 frames...
+  → Load complete.
+[MP3Track::analyze_beatgrid] Analyzing beat grid for: "What Took You So Long"
+  → Estimated beats: 589  → Compression precision factor: 1
+Added 'What Took You So Long' to playlist 'armin_van_buuren_ASOT_1250'
+Added 'What Took You So Long' to playlist 'armin_van_buuren_ASOT_1250'
+[MP3Track::load] Loading MP3: "Destination (ASOT 2024 Anthem)" at 320 kbps...
+  → Processing ID3 metadata (artist info, album art, etc.)...
+  → Decoding MP3 frames...
+  → Load complete.
+[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Destination (ASOT 2024 Anthem)"
+  → Estimated beats: 858  → Compression precision factor: 1
+Added 'Destination (ASOT 2024 Anthem)' to playlist 'armin_van_buuren_ASOT_1250'
+Added 'Destination (ASOT 2024 Anthem)' to playlist 'armin_van_buuren_ASOT_1250'
+[MP3Track::load] Loading MP3: "Intense" at 320 kbps...
+  → Processing ID3 metadata (artist info, album art, etc.)...
+  → Decoding MP3 frames...
+  → Load complete.
+[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Intense"
+  → Estimated beats: 714  → Compression precision factor: 1
+Added 'Intense' to playlist 'armin_van_buuren_ASOT_1250'
+Added 'Intense' to playlist 'armin_van_buuren_ASOT_1250'
+[MP3Track::load] Loading MP3: "Take This" at 192 kbps...
+  → Processing ID3 metadata (artist info, album art, etc.)...
+  → Decoding MP3 frames...
+  → Load complete.
+[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Take This"
+  → Estimated beats: 625  → Compression precision factor: 0.6
+Added 'Take This' to playlist 'armin_van_buuren_ASOT_1250'
+Added 'Take This' to playlist 'armin_van_buuren_ASOT_1250'
+[MP3Track::load] Loading MP3: "Southern Sun" at 192 kbps...
+  → Processing ID3 metadata (artist info, album art, etc.)...
+  → Decoding MP3 frames...
+  → Load complete.
+[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Southern Sun"
+  → Estimated beats: 569  → Compression precision factor: 0.6
+Added 'Southern Sun' to playlist 'armin_van_buuren_ASOT_1250'
+Added 'Southern Sun' to playlist 'armin_van_buuren_ASOT_1250'
+[WAVTrack::load] Loading WAV: "U" at 96000Hz/16bit (uncompressed)...
+  → Estimated file size: 84864000 bytes
+  → Fast loading due to uncompressed format.
+[WAVTrack::analyze_beatgrid] Analyzing beat grid for: "U"
+  → Estimated beats: 504  → Precision factor: 1 (uncompressed audio)
+Added 'U' to playlist 'armin_van_buuren_ASOT_1250'
+Added 'U' to playlist 'armin_van_buuren_ASOT_1250'
+[MP3Track::load] Loading MP3: "Anahera" at 256 kbps...
+  → Processing ID3 metadata (artist info, album art, etc.)...
+  → Decoding MP3 frames...
+  → Load complete.
+[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Anahera"
+  → Estimated beats: 931  → Compression precision factor: 0.8
+Added 'Anahera' to playlist 'armin_van_buuren_ASOT_1250'
+Added 'Anahera' to playlist 'armin_van_buuren_ASOT_1250'
+[MP3Track::load] Loading MP3: "Tuvan" at 192 kbps...
+  → Processing ID3 metadata (artist info, album art, etc.)...
+  → Decoding MP3 frames...
+  → Load complete.
+[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Tuvan"
+  → Estimated beats: 597  → Compression precision factor: 0.6
+Added 'Tuvan' to playlist 'armin_van_buuren_ASOT_1250'
+Added 'Tuvan' to playlist 'armin_van_buuren_ASOT_1250'
+[MP3Track::load] Loading MP3: "Lighter Than Air" at 192 kbps...
+  → Processing ID3 metadata (artist info, album art, etc.)...
+  → Decoding MP3 frames...
+  → Load complete.
+[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Lighter Than Air"
+  → Estimated beats: 582  → Compression precision factor: 0.6
+Added 'Lighter Than Air' to playlist 'armin_van_buuren_ASOT_1250'
+Added 'Lighter Than Air' to playlist 'armin_van_buuren_ASOT_1250'
+[MP3Track::load] Loading MP3: "No One On Earth" at 256 kbps...
+  → Processing ID3 metadata (artist info, album art, etc.)...
+  → Decoding MP3 frames...
+  → Load complete.
+[MP3Track::analyze_beatgrid] Analyzing beat grid for: "No One On Earth"
+  → Estimated beats: 605  → Compression precision factor: 0.8
+Added 'No One On Earth' to playlist 'armin_van_buuren_ASOT_1250'
+Added 'No One On Earth' to playlist 'armin_van_buuren_ASOT_1250'
+[MP3Track::load] Loading MP3: "Saving Light" at 320 kbps...
+  → Processing ID3 metadata (artist info, album art, etc.)...
+  → Decoding MP3 frames...
+  → Load complete.
+[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Saving Light"
+  → Estimated beats: 634  → Compression precision factor: 1
+Added 'Saving Light' to playlist 'armin_van_buuren_ASOT_1250'
+Added 'Saving Light' to playlist 'armin_van_buuren_ASOT_1250'
+[WAVTrack::load] Loading WAV: "Concrete Angel" at 44100Hz/24bit (uncompressed)...
+  → Estimated file size: 80967600 bytes
+  → Fast loading due to uncompressed format.
+[WAVTrack::analyze_beatgrid] Analyzing beat grid for: "Concrete Angel"
+  → Estimated beats: 622  → Precision factor: 1 (uncompressed audio)
+Added 'Concrete Angel' to playlist 'armin_van_buuren_ASOT_1250'
+Added 'Concrete Angel' to playlist 'armin_van_buuren_ASOT_1250'
+[MP3Track::load] Loading MP3: "Right Back" at 256 kbps...
+  → Processing ID3 metadata (artist info, album art, etc.)...
+  → Decoding MP3 frames...
+  → Load complete.
+[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Right Back"
+  → Estimated beats: 779  → Compression precision factor: 0.8
+Added 'Right Back' to playlist 'armin_van_buuren_ASOT_1250'
+Added 'Right Back' to playlist 'armin_van_buuren_ASOT_1250'
 [INFO] Playlist loaded: armin_van_buuren_ASOT_1250 (30 tracks)
 
 --- Processing: Right Back ---
@@ -1455,184 +1596,6 @@ Errors: 0
 [System] Loading playlist: lost_frequencies_tomorrowland_2025_w1
 [INFO] Loading playlist: lost_frequencies_tomorrowland_2025_w1
 Created playlist: lost_frequencies_tomorrowland_2025_w1
-[MP3Track::load] Loading MP3: "Black Thunderclouds (Lost Frequencies 2025 Intro)" at 256 kbps...
-  → Processing ID3 metadata (artist info, album art, etc.)...
-  → Decoding MP3 frames...
-  → Load complete.
-[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Black Thunderclouds (Lost Frequencies 2025 Intro)"
-  → Estimated beats: 662  → Compression precision factor: 0.8
-Added 'Black Thunderclouds (Lost Frequencies 2025 Intro)' to playlist 'lost_frequencies_tomorrowland_2025_w1'
-[WAVTrack::load] Loading WAV: "ID1" at 44100Hz/16bit (uncompressed)...
-  → Estimated file size: 48686400 bytes
-  → Fast loading due to uncompressed format.
-[WAVTrack::analyze_beatgrid] Analyzing beat grid for: "ID1"
-  → Estimated beats: 584  → Precision factor: 1 (uncompressed audio)
-Added 'ID1' to playlist 'lost_frequencies_tomorrowland_2025_w1'
-[MP3Track::load] Loading MP3: "Sun Is Shining" at 256 kbps...
-  → Processing ID3 metadata (artist info, album art, etc.)...
-  → Decoding MP3 frames...
-  → Load complete.
-[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Sun Is Shining"
-  → Estimated beats: 533  → Compression precision factor: 0.8
-Added 'Sun Is Shining' to playlist 'lost_frequencies_tomorrowland_2025_w1'
-[WAVTrack::load] Loading WAV: "Are You With Me" at 44100Hz/24bit (uncompressed)...
-  → Estimated file size: 49744800 bytes
-  → Fast loading due to uncompressed format.
-[WAVTrack::analyze_beatgrid] Analyzing beat grid for: "Are You With Me"
-  → Estimated beats: 385  → Precision factor: 1 (uncompressed audio)
-Added 'Are You With Me' to playlist 'lost_frequencies_tomorrowland_2025_w1'
-[MP3Track::load] Loading MP3: "Worry About Me" at 256 kbps...
-  → Processing ID3 metadata (artist info, album art, etc.)...
-  → Decoding MP3 frames...
-  → Load complete.
-[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Worry About Me"
-  → Estimated beats: 576  → Compression precision factor: 0.8
-Added 'Worry About Me' to playlist 'lost_frequencies_tomorrowland_2025_w1'
-[WAVTrack::load] Loading WAV: "ID2" at 44100Hz/16bit (uncompressed)...
-  → Estimated file size: 54860400 bytes
-  → Fast loading due to uncompressed format.
-[WAVTrack::analyze_beatgrid] Analyzing beat grid for: "ID2"
-  → Estimated beats: 679  → Precision factor: 1 (uncompressed audio)
-Added 'ID2' to playlist 'lost_frequencies_tomorrowland_2025_w1'
-[WAVTrack::load] Loading WAV: "Love Is The Only Thing" at 48000Hz/16bit (uncompressed)...
-  → Estimated file size: 73152000 bytes
-  → Fast loading due to uncompressed format.
-[WAVTrack::analyze_beatgrid] Analyzing beat grid for: "Love Is The Only Thing"
-  → Estimated beats: 889  → Precision factor: 1 (uncompressed audio)
-Added 'Love Is The Only Thing' to playlist 'lost_frequencies_tomorrowland_2025_w1'
-[WAVTrack::load] Loading WAV: "Kick The Nation" at 48000Hz/16bit (uncompressed)...
-  → Estimated file size: 47232000 bytes
-  → Fast loading due to uncompressed format.
-[WAVTrack::analyze_beatgrid] Analyzing beat grid for: "Kick The Nation"
-  → Estimated beats: 541  → Precision factor: 1 (uncompressed audio)
-Added 'Kick The Nation' to playlist 'lost_frequencies_tomorrowland_2025_w1'
-[MP3Track::load] Loading MP3: "Summer Skies (I Love To Cry)" at 256 kbps...
-  → Processing ID3 metadata (artist info, album art, etc.)...
-  → Decoding MP3 frames...
-  → Load complete.
-[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Summer Skies (I Love To Cry)"
-  → Estimated beats: 781  → Compression precision factor: 0.8
-Added 'Summer Skies (I Love To Cry)' to playlist 'lost_frequencies_tomorrowland_2025_w1'
-[WAVTrack::load] Loading WAV: "Kesariya" at 48000Hz/16bit (uncompressed)...
-  → Estimated file size: 38400000 bytes
-  → Fast loading due to uncompressed format.
-[WAVTrack::analyze_beatgrid] Analyzing beat grid for: "Kesariya"
-  → Estimated beats: 460  → Precision factor: 1 (uncompressed audio)
-Added 'Kesariya' to playlist 'lost_frequencies_tomorrowland_2025_w1'
-[WAVTrack::load] Loading WAV: "ID2" at 44100Hz/16bit (uncompressed)...
-  → Estimated file size: 54860400 bytes
-  → Fast loading due to uncompressed format.
-[WAVTrack::analyze_beatgrid] Analyzing beat grid for: "ID2"
-  → Estimated beats: 679  → Precision factor: 1 (uncompressed audio)
-Added 'ID2' to playlist 'lost_frequencies_tomorrowland_2025_w1'
-[MP3Track::load] Loading MP3: "Head Down" at 256 kbps...
-  → Processing ID3 metadata (artist info, album art, etc.)...
-  → Decoding MP3 frames...
-  → Load complete.
-[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Head Down"
-  → Estimated beats: 711  → Compression precision factor: 0.8
-Added 'Head Down' to playlist 'lost_frequencies_tomorrowland_2025_w1'
-[WAVTrack::load] Loading WAV: "The Feeling" at 48000Hz/16bit (uncompressed)...
-  → Estimated file size: 85632000 bytes
-  → Fast loading due to uncompressed format.
-[WAVTrack::analyze_beatgrid] Analyzing beat grid for: "The Feeling"
-  → Estimated beats: 914  → Precision factor: 1 (uncompressed audio)
-Added 'The Feeling' to playlist 'lost_frequencies_tomorrowland_2025_w1'
-[WAVTrack::load] Loading WAV: "The Feeling" at 48000Hz/16bit (uncompressed)...
-  → Estimated file size: 85632000 bytes
-  → Fast loading due to uncompressed format.
-[WAVTrack::analyze_beatgrid] Analyzing beat grid for: "The Feeling"
-  → Estimated beats: 914  → Precision factor: 1 (uncompressed audio)
-Added 'The Feeling' to playlist 'lost_frequencies_tomorrowland_2025_w1'
-[MP3Track::load] Loading MP3: "Just Wanna Know" at 192 kbps...
-  → Processing ID3 metadata (artist info, album art, etc.)...
-  → Decoding MP3 frames...
-  → Load complete.
-[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Just Wanna Know"
-  → Estimated beats: 944  → Compression precision factor: 0.6
-Added 'Just Wanna Know' to playlist 'lost_frequencies_tomorrowland_2025_w1'
-[WAVTrack::load] Loading WAV: "Let Me Blow Ya Mind (Netsky Bootleg)" at 48000Hz/16bit (uncompressed)...
-  → Estimated file size: 83520000 bytes
-  → Fast loading due to uncompressed format.
-[WAVTrack::analyze_beatgrid] Analyzing beat grid for: "Let Me Blow Ya Mind (Netsky Bootleg)"
-  → Estimated beats: 935  → Precision factor: 1 (uncompressed audio)
-Added 'Let Me Blow Ya Mind (Netsky Bootleg)' to playlist 'lost_frequencies_tomorrowland_2025_w1'
-[MP3Track::load] Loading MP3: "Where Are You Now" at 320 kbps...
-  → Processing ID3 metadata (artist info, album art, etc.)...
-  → Decoding MP3 frames...
-  → Load complete.
-[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Where Are You Now"
-  → Estimated beats: 410  → Compression precision factor: 1
-Added 'Where Are You Now' to playlist 'lost_frequencies_tomorrowland_2025_w1'
-[MP3Track::load] Loading MP3: "Where Are You Now" at 320 kbps...
-  → Processing ID3 metadata (artist info, album art, etc.)...
-  → Decoding MP3 frames...
-  → Load complete.
-[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Where Are You Now"
-  → Estimated beats: 410  → Compression precision factor: 1
-Added 'Where Are You Now' to playlist 'lost_frequencies_tomorrowland_2025_w1'
-[MP3Track::load] Loading MP3: "Voodoo People" at 256 kbps...
-  → Processing ID3 metadata (artist info, album art, etc.)...
-  → Decoding MP3 frames...
-  → Load complete.
-[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Voodoo People"
-  → Estimated beats: 782  → Compression precision factor: 0.8
-Added 'Voodoo People' to playlist 'lost_frequencies_tomorrowland_2025_w1'
-[MP3Track::load] Loading MP3: "Freestyler (Rock The Microphone)" at 192 kbps...
-  → Processing ID3 metadata (artist info, album art, etc.)...
-  → Decoding MP3 frames...
-  → Load complete.
-[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Freestyler (Rock The Microphone)"
-  → Estimated beats: 512  → Compression precision factor: 0.6
-Added 'Freestyler (Rock The Microphone)' to playlist 'lost_frequencies_tomorrowland_2025_w1'
-[WAVTrack::load] Loading WAV: "High Hopes" at 96000Hz/24bit (uncompressed)...
-  → Estimated file size: 139392000 bytes
-  → Fast loading due to uncompressed format.
-[WAVTrack::analyze_beatgrid] Analyzing beat grid for: "High Hopes"
-  → Estimated beats: 500  → Precision factor: 1 (uncompressed audio)
-Added 'High Hopes' to playlist 'lost_frequencies_tomorrowland_2025_w1'
-[MP3Track::load] Loading MP3: "Reality" at 256 kbps...
-  → Processing ID3 metadata (artist info, album art, etc.)...
-  → Decoding MP3 frames...
-  → Load complete.
-[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Reality"
-  → Estimated beats: 534  → Compression precision factor: 0.8
-Added 'Reality' to playlist 'lost_frequencies_tomorrowland_2025_w1'
-[MP3Track::load] Loading MP3: "Black Friday (Pretty Like The Sun)" at 256 kbps...
-  → Processing ID3 metadata (artist info, album art, etc.)...
-  → Decoding MP3 frames...
-  → Load complete.
-[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Black Friday (Pretty Like The Sun)"
-  → Estimated beats: 534  → Compression precision factor: 0.8
-Added 'Black Friday (Pretty Like The Sun)' to playlist 'lost_frequencies_tomorrowland_2025_w1'
-[MP3Track::load] Loading MP3: "Black Friday (Pretty Like The Sun)" at 256 kbps...
-  → Processing ID3 metadata (artist info, album art, etc.)...
-  → Decoding MP3 frames...
-  → Load complete.
-[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Black Friday (Pretty Like The Sun)"
-  → Estimated beats: 534  → Compression precision factor: 0.8
-Added 'Black Friday (Pretty Like The Sun)' to playlist 'lost_frequencies_tomorrowland_2025_w1'
-[MP3Track::load] Loading MP3: "Innerbloom (RUMPUS Edit)" at 320 kbps...
-  → Processing ID3 metadata (artist info, album art, etc.)...
-  → Decoding MP3 frames...
-  → Load complete.
-[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Innerbloom (RUMPUS Edit)"
-  → Estimated beats: 518  → Compression precision factor: 1
-Added 'Innerbloom (RUMPUS Edit)' to playlist 'lost_frequencies_tomorrowland_2025_w1'
-[MP3Track::load] Loading MP3: "Timeless" at 256 kbps...
-  → Processing ID3 metadata (artist info, album art, etc.)...
-  → Decoding MP3 frames...
-  → Load complete.
-[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Timeless"
-  → Estimated beats: 573  → Compression precision factor: 0.8
-Added 'Timeless' to playlist 'lost_frequencies_tomorrowland_2025_w1'
-[MP3Track::load] Loading MP3: "Sweet Disposition (A Moment A Love)" at 320 kbps...
-  → Processing ID3 metadata (artist info, album art, etc.)...
-  → Decoding MP3 frames...
-  → Load complete.
-[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Sweet Disposition (A Moment A Love)"
-  → Estimated beats: 883  → Compression precision factor: 1
-Added 'Sweet Disposition (A Moment A Love)' to playlist 'lost_frequencies_tomorrowland_2025_w1'
 [MP3Track::load] Loading MP3: "Dance In The Sunlight (Deluxe Version)" at 256 kbps...
   → Processing ID3 metadata (artist info, album art, etc.)...
   → Decoding MP3 frames...
@@ -1640,6 +1603,212 @@ Added 'Sweet Disposition (A Moment A Love)' to playlist 'lost_frequencies_tomorr
 [MP3Track::analyze_beatgrid] Analyzing beat grid for: "Dance In The Sunlight (Deluxe Version)"
   → Estimated beats: 748  → Compression precision factor: 0.8
 Added 'Dance In The Sunlight (Deluxe Version)' to playlist 'lost_frequencies_tomorrowland_2025_w1'
+Added 'Dance In The Sunlight (Deluxe Version)' to playlist 'lost_frequencies_tomorrowland_2025_w1'
+[MP3Track::load] Loading MP3: "Sweet Disposition (A Moment A Love)" at 320 kbps...
+  → Processing ID3 metadata (artist info, album art, etc.)...
+  → Decoding MP3 frames...
+  → Load complete.
+[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Sweet Disposition (A Moment A Love)"
+  → Estimated beats: 883  → Compression precision factor: 1
+Added 'Sweet Disposition (A Moment A Love)' to playlist 'lost_frequencies_tomorrowland_2025_w1'
+Added 'Sweet Disposition (A Moment A Love)' to playlist 'lost_frequencies_tomorrowland_2025_w1'
+[MP3Track::load] Loading MP3: "Timeless" at 256 kbps...
+  → Processing ID3 metadata (artist info, album art, etc.)...
+  → Decoding MP3 frames...
+  → Load complete.
+[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Timeless"
+  → Estimated beats: 573  → Compression precision factor: 0.8
+Added 'Timeless' to playlist 'lost_frequencies_tomorrowland_2025_w1'
+Added 'Timeless' to playlist 'lost_frequencies_tomorrowland_2025_w1'
+[MP3Track::load] Loading MP3: "Innerbloom (RUMPUS Edit)" at 320 kbps...
+  → Processing ID3 metadata (artist info, album art, etc.)...
+  → Decoding MP3 frames...
+  → Load complete.
+[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Innerbloom (RUMPUS Edit)"
+  → Estimated beats: 518  → Compression precision factor: 1
+Added 'Innerbloom (RUMPUS Edit)' to playlist 'lost_frequencies_tomorrowland_2025_w1'
+Added 'Innerbloom (RUMPUS Edit)' to playlist 'lost_frequencies_tomorrowland_2025_w1'
+[MP3Track::load] Loading MP3: "Black Friday (Pretty Like The Sun)" at 256 kbps...
+  → Processing ID3 metadata (artist info, album art, etc.)...
+  → Decoding MP3 frames...
+  → Load complete.
+[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Black Friday (Pretty Like The Sun)"
+  → Estimated beats: 534  → Compression precision factor: 0.8
+Added 'Black Friday (Pretty Like The Sun)' to playlist 'lost_frequencies_tomorrowland_2025_w1'
+Added 'Black Friday (Pretty Like The Sun)' to playlist 'lost_frequencies_tomorrowland_2025_w1'
+[MP3Track::load] Loading MP3: "Black Friday (Pretty Like The Sun)" at 256 kbps...
+  → Processing ID3 metadata (artist info, album art, etc.)...
+  → Decoding MP3 frames...
+  → Load complete.
+[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Black Friday (Pretty Like The Sun)"
+  → Estimated beats: 534  → Compression precision factor: 0.8
+Added 'Black Friday (Pretty Like The Sun)' to playlist 'lost_frequencies_tomorrowland_2025_w1'
+Added 'Black Friday (Pretty Like The Sun)' to playlist 'lost_frequencies_tomorrowland_2025_w1'
+[MP3Track::load] Loading MP3: "Reality" at 256 kbps...
+  → Processing ID3 metadata (artist info, album art, etc.)...
+  → Decoding MP3 frames...
+  → Load complete.
+[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Reality"
+  → Estimated beats: 534  → Compression precision factor: 0.8
+Added 'Reality' to playlist 'lost_frequencies_tomorrowland_2025_w1'
+Added 'Reality' to playlist 'lost_frequencies_tomorrowland_2025_w1'
+[WAVTrack::load] Loading WAV: "High Hopes" at 96000Hz/24bit (uncompressed)...
+  → Estimated file size: 139392000 bytes
+  → Fast loading due to uncompressed format.
+[WAVTrack::analyze_beatgrid] Analyzing beat grid for: "High Hopes"
+  → Estimated beats: 500  → Precision factor: 1 (uncompressed audio)
+Added 'High Hopes' to playlist 'lost_frequencies_tomorrowland_2025_w1'
+Added 'High Hopes' to playlist 'lost_frequencies_tomorrowland_2025_w1'
+[MP3Track::load] Loading MP3: "Freestyler (Rock The Microphone)" at 192 kbps...
+  → Processing ID3 metadata (artist info, album art, etc.)...
+  → Decoding MP3 frames...
+  → Load complete.
+[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Freestyler (Rock The Microphone)"
+  → Estimated beats: 512  → Compression precision factor: 0.6
+Added 'Freestyler (Rock The Microphone)' to playlist 'lost_frequencies_tomorrowland_2025_w1'
+Added 'Freestyler (Rock The Microphone)' to playlist 'lost_frequencies_tomorrowland_2025_w1'
+[MP3Track::load] Loading MP3: "Voodoo People" at 256 kbps...
+  → Processing ID3 metadata (artist info, album art, etc.)...
+  → Decoding MP3 frames...
+  → Load complete.
+[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Voodoo People"
+  → Estimated beats: 782  → Compression precision factor: 0.8
+Added 'Voodoo People' to playlist 'lost_frequencies_tomorrowland_2025_w1'
+Added 'Voodoo People' to playlist 'lost_frequencies_tomorrowland_2025_w1'
+[MP3Track::load] Loading MP3: "Where Are You Now" at 320 kbps...
+  → Processing ID3 metadata (artist info, album art, etc.)...
+  → Decoding MP3 frames...
+  → Load complete.
+[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Where Are You Now"
+  → Estimated beats: 410  → Compression precision factor: 1
+Added 'Where Are You Now' to playlist 'lost_frequencies_tomorrowland_2025_w1'
+Added 'Where Are You Now' to playlist 'lost_frequencies_tomorrowland_2025_w1'
+[MP3Track::load] Loading MP3: "Where Are You Now" at 320 kbps...
+  → Processing ID3 metadata (artist info, album art, etc.)...
+  → Decoding MP3 frames...
+  → Load complete.
+[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Where Are You Now"
+  → Estimated beats: 410  → Compression precision factor: 1
+Added 'Where Are You Now' to playlist 'lost_frequencies_tomorrowland_2025_w1'
+Added 'Where Are You Now' to playlist 'lost_frequencies_tomorrowland_2025_w1'
+[WAVTrack::load] Loading WAV: "Let Me Blow Ya Mind (Netsky Bootleg)" at 48000Hz/16bit (uncompressed)...
+  → Estimated file size: 83520000 bytes
+  → Fast loading due to uncompressed format.
+[WAVTrack::analyze_beatgrid] Analyzing beat grid for: "Let Me Blow Ya Mind (Netsky Bootleg)"
+  → Estimated beats: 935  → Precision factor: 1 (uncompressed audio)
+Added 'Let Me Blow Ya Mind (Netsky Bootleg)' to playlist 'lost_frequencies_tomorrowland_2025_w1'
+Added 'Let Me Blow Ya Mind (Netsky Bootleg)' to playlist 'lost_frequencies_tomorrowland_2025_w1'
+[MP3Track::load] Loading MP3: "Just Wanna Know" at 192 kbps...
+  → Processing ID3 metadata (artist info, album art, etc.)...
+  → Decoding MP3 frames...
+  → Load complete.
+[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Just Wanna Know"
+  → Estimated beats: 944  → Compression precision factor: 0.6
+Added 'Just Wanna Know' to playlist 'lost_frequencies_tomorrowland_2025_w1'
+Added 'Just Wanna Know' to playlist 'lost_frequencies_tomorrowland_2025_w1'
+[WAVTrack::load] Loading WAV: "The Feeling" at 48000Hz/16bit (uncompressed)...
+  → Estimated file size: 85632000 bytes
+  → Fast loading due to uncompressed format.
+[WAVTrack::analyze_beatgrid] Analyzing beat grid for: "The Feeling"
+  → Estimated beats: 914  → Precision factor: 1 (uncompressed audio)
+Added 'The Feeling' to playlist 'lost_frequencies_tomorrowland_2025_w1'
+Added 'The Feeling' to playlist 'lost_frequencies_tomorrowland_2025_w1'
+[WAVTrack::load] Loading WAV: "The Feeling" at 48000Hz/16bit (uncompressed)...
+  → Estimated file size: 85632000 bytes
+  → Fast loading due to uncompressed format.
+[WAVTrack::analyze_beatgrid] Analyzing beat grid for: "The Feeling"
+  → Estimated beats: 914  → Precision factor: 1 (uncompressed audio)
+Added 'The Feeling' to playlist 'lost_frequencies_tomorrowland_2025_w1'
+Added 'The Feeling' to playlist 'lost_frequencies_tomorrowland_2025_w1'
+[MP3Track::load] Loading MP3: "Head Down" at 256 kbps...
+  → Processing ID3 metadata (artist info, album art, etc.)...
+  → Decoding MP3 frames...
+  → Load complete.
+[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Head Down"
+  → Estimated beats: 711  → Compression precision factor: 0.8
+Added 'Head Down' to playlist 'lost_frequencies_tomorrowland_2025_w1'
+Added 'Head Down' to playlist 'lost_frequencies_tomorrowland_2025_w1'
+[WAVTrack::load] Loading WAV: "ID2" at 44100Hz/16bit (uncompressed)...
+  → Estimated file size: 54860400 bytes
+  → Fast loading due to uncompressed format.
+[WAVTrack::analyze_beatgrid] Analyzing beat grid for: "ID2"
+  → Estimated beats: 679  → Precision factor: 1 (uncompressed audio)
+Added 'ID2' to playlist 'lost_frequencies_tomorrowland_2025_w1'
+Added 'ID2' to playlist 'lost_frequencies_tomorrowland_2025_w1'
+[WAVTrack::load] Loading WAV: "Kesariya" at 48000Hz/16bit (uncompressed)...
+  → Estimated file size: 38400000 bytes
+  → Fast loading due to uncompressed format.
+[WAVTrack::analyze_beatgrid] Analyzing beat grid for: "Kesariya"
+  → Estimated beats: 460  → Precision factor: 1 (uncompressed audio)
+Added 'Kesariya' to playlist 'lost_frequencies_tomorrowland_2025_w1'
+Added 'Kesariya' to playlist 'lost_frequencies_tomorrowland_2025_w1'
+[MP3Track::load] Loading MP3: "Summer Skies (I Love To Cry)" at 256 kbps...
+  → Processing ID3 metadata (artist info, album art, etc.)...
+  → Decoding MP3 frames...
+  → Load complete.
+[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Summer Skies (I Love To Cry)"
+  → Estimated beats: 781  → Compression precision factor: 0.8
+Added 'Summer Skies (I Love To Cry)' to playlist 'lost_frequencies_tomorrowland_2025_w1'
+Added 'Summer Skies (I Love To Cry)' to playlist 'lost_frequencies_tomorrowland_2025_w1'
+[WAVTrack::load] Loading WAV: "Kick The Nation" at 48000Hz/16bit (uncompressed)...
+  → Estimated file size: 47232000 bytes
+  → Fast loading due to uncompressed format.
+[WAVTrack::analyze_beatgrid] Analyzing beat grid for: "Kick The Nation"
+  → Estimated beats: 541  → Precision factor: 1 (uncompressed audio)
+Added 'Kick The Nation' to playlist 'lost_frequencies_tomorrowland_2025_w1'
+Added 'Kick The Nation' to playlist 'lost_frequencies_tomorrowland_2025_w1'
+[WAVTrack::load] Loading WAV: "Love Is The Only Thing" at 48000Hz/16bit (uncompressed)...
+  → Estimated file size: 73152000 bytes
+  → Fast loading due to uncompressed format.
+[WAVTrack::analyze_beatgrid] Analyzing beat grid for: "Love Is The Only Thing"
+  → Estimated beats: 889  → Precision factor: 1 (uncompressed audio)
+Added 'Love Is The Only Thing' to playlist 'lost_frequencies_tomorrowland_2025_w1'
+Added 'Love Is The Only Thing' to playlist 'lost_frequencies_tomorrowland_2025_w1'
+[WAVTrack::load] Loading WAV: "ID2" at 44100Hz/16bit (uncompressed)...
+  → Estimated file size: 54860400 bytes
+  → Fast loading due to uncompressed format.
+[WAVTrack::analyze_beatgrid] Analyzing beat grid for: "ID2"
+  → Estimated beats: 679  → Precision factor: 1 (uncompressed audio)
+Added 'ID2' to playlist 'lost_frequencies_tomorrowland_2025_w1'
+Added 'ID2' to playlist 'lost_frequencies_tomorrowland_2025_w1'
+[MP3Track::load] Loading MP3: "Worry About Me" at 256 kbps...
+  → Processing ID3 metadata (artist info, album art, etc.)...
+  → Decoding MP3 frames...
+  → Load complete.
+[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Worry About Me"
+  → Estimated beats: 576  → Compression precision factor: 0.8
+Added 'Worry About Me' to playlist 'lost_frequencies_tomorrowland_2025_w1'
+Added 'Worry About Me' to playlist 'lost_frequencies_tomorrowland_2025_w1'
+[WAVTrack::load] Loading WAV: "Are You With Me" at 44100Hz/24bit (uncompressed)...
+  → Estimated file size: 49744800 bytes
+  → Fast loading due to uncompressed format.
+[WAVTrack::analyze_beatgrid] Analyzing beat grid for: "Are You With Me"
+  → Estimated beats: 385  → Precision factor: 1 (uncompressed audio)
+Added 'Are You With Me' to playlist 'lost_frequencies_tomorrowland_2025_w1'
+Added 'Are You With Me' to playlist 'lost_frequencies_tomorrowland_2025_w1'
+[MP3Track::load] Loading MP3: "Sun Is Shining" at 256 kbps...
+  → Processing ID3 metadata (artist info, album art, etc.)...
+  → Decoding MP3 frames...
+  → Load complete.
+[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Sun Is Shining"
+  → Estimated beats: 533  → Compression precision factor: 0.8
+Added 'Sun Is Shining' to playlist 'lost_frequencies_tomorrowland_2025_w1'
+Added 'Sun Is Shining' to playlist 'lost_frequencies_tomorrowland_2025_w1'
+[WAVTrack::load] Loading WAV: "ID1" at 44100Hz/16bit (uncompressed)...
+  → Estimated file size: 48686400 bytes
+  → Fast loading due to uncompressed format.
+[WAVTrack::analyze_beatgrid] Analyzing beat grid for: "ID1"
+  → Estimated beats: 584  → Precision factor: 1 (uncompressed audio)
+Added 'ID1' to playlist 'lost_frequencies_tomorrowland_2025_w1'
+Added 'ID1' to playlist 'lost_frequencies_tomorrowland_2025_w1'
+[MP3Track::load] Loading MP3: "Black Thunderclouds (Lost Frequencies 2025 Intro)" at 256 kbps...
+  → Processing ID3 metadata (artist info, album art, etc.)...
+  → Decoding MP3 frames...
+  → Load complete.
+[MP3Track::analyze_beatgrid] Analyzing beat grid for: "Black Thunderclouds (Lost Frequencies 2025 Intro)"
+  → Estimated beats: 662  → Compression precision factor: 0.8
+Added 'Black Thunderclouds (Lost Frequencies 2025 Intro)' to playlist 'lost_frequencies_tomorrowland_2025_w1'
+Added 'Black Thunderclouds (Lost Frequencies 2025 Intro)' to playlist 'lost_frequencies_tomorrowland_2025_w1'
 [INFO] Playlist loaded: lost_frequencies_tomorrowland_2025_w1 (28 tracks)
 
 --- Processing: Black Thunderclouds (Lost Frequencies 2025 Intro) ---
