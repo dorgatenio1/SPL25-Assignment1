@@ -402,11 +402,10 @@ Active Deck: 0
   → Estimated beats: 622  → Precision factor: 1 (uncompressed audio)
 [Sync BPM] Syncing BPM from 122 to 123
 [Load Complete] 'Concrete Angel' is now loaded on deck 1
-[Unload] Unloading previous deck 0 (Right Back)
 [Active Deck] Switched to deck 1
 
 === Deck Status ===
-Deck 0: [EMPTY]
+Deck 0: Right Back
 Deck 1: Concrete Angel
 Active Deck: 1
 ===================
@@ -439,12 +438,11 @@ Active Deck: 1
   → Estimated beats: 634  → Compression precision factor: 1
 [Sync BPM] Syncing BPM from 130 to 126
 [Load Complete] 'Saving Light' is now loaded on deck 0
-[Unload] Unloading previous deck 1 (Concrete Angel)
 [Active Deck] Switched to deck 0
 
 === Deck Status ===
 Deck 0: Saving Light
-Deck 1: [EMPTY]
+Deck 1: Concrete Angel
 Active Deck: 0
 ===================
 
@@ -476,11 +474,10 @@ Active Deck: 0
   → Estimated beats: 605  → Compression precision factor: 0.8
 [Sync BPM] Syncing BPM from 135 to 132
 [Load Complete] 'No One On Earth' is now loaded on deck 1
-[Unload] Unloading previous deck 0 (Saving Light)
 [Active Deck] Switched to deck 1
 
 === Deck Status ===
-Deck 0: [EMPTY]
+Deck 0: Saving Light
 Deck 1: No One On Earth
 Active Deck: 1
 ===================
@@ -513,12 +510,11 @@ Active Deck: 1
   → Estimated beats: 582  → Compression precision factor: 0.6
 [Sync BPM] Syncing BPM from 128 to 131
 [Load Complete] 'Lighter Than Air' is now loaded on deck 0
-[Unload] Unloading previous deck 1 (No One On Earth)
 [Active Deck] Switched to deck 0
 
 === Deck Status ===
 Deck 0: Lighter Than Air
-Deck 1: [EMPTY]
+Deck 1: No One On Earth
 Active Deck: 0
 ===================
 
@@ -550,11 +546,10 @@ Active Deck: 0
   → Estimated beats: 597  → Compression precision factor: 0.6
 [Sync BPM] Syncing BPM from 125 to 126
 [Load Complete] 'Tuvan' is now loaded on deck 1
-[Unload] Unloading previous deck 0 (Lighter Than Air)
 [Active Deck] Switched to deck 1
 
 === Deck Status ===
-Deck 0: [EMPTY]
+Deck 0: Lighter Than Air
 Deck 1: Tuvan
 Active Deck: 1
 ===================
@@ -587,12 +582,11 @@ Active Deck: 1
   → Estimated beats: 931  → Compression precision factor: 0.8
 [Sync BPM] Syncing BPM from 140 to 132
 [Load Complete] 'Anahera' is now loaded on deck 0
-[Unload] Unloading previous deck 1 (Tuvan)
 [Active Deck] Switched to deck 0
 
 === Deck Status ===
 Deck 0: Anahera
-Deck 1: [EMPTY]
+Deck 1: Tuvan
 Active Deck: 0
 ===================
 
@@ -622,11 +616,10 @@ Active Deck: 0
   → Estimated beats: 504  → Precision factor: 1 (uncompressed audio)
 [Sync BPM] Syncing BPM from 137 to 138
 [Load Complete] 'U' is now loaded on deck 1
-[Unload] Unloading previous deck 0 (Anahera)
 [Active Deck] Switched to deck 1
 
 === Deck Status ===
-Deck 0: [EMPTY]
+Deck 0: Anahera
 Deck 1: U
 Active Deck: 1
 ===================
@@ -659,12 +652,11 @@ Active Deck: 1
   → Estimated beats: 569  → Compression precision factor: 0.6
 [Sync BPM] Syncing BPM from 133 to 135
 [Load Complete] 'Southern Sun' is now loaded on deck 0
-[Unload] Unloading previous deck 1 (U)
 [Active Deck] Switched to deck 0
 
 === Deck Status ===
 Deck 0: Southern Sun
-Deck 1: [EMPTY]
+Deck 1: U
 Active Deck: 0
 ===================
 
@@ -696,11 +688,10 @@ Active Deck: 0
   → Estimated beats: 625  → Compression precision factor: 0.6
 [Sync BPM] Syncing BPM from 135 to 134
 [Load Complete] 'Take This' is now loaded on deck 1
-[Unload] Unloading previous deck 0 (Southern Sun)
 [Active Deck] Switched to deck 1
 
 === Deck Status ===
-Deck 0: [EMPTY]
+Deck 0: Southern Sun
 Deck 1: Take This
 Active Deck: 1
 ===================
@@ -733,12 +724,11 @@ Active Deck: 1
   → Estimated beats: 714  → Compression precision factor: 1
 [Sync BPM] Syncing BPM from 128 to 131
 [Load Complete] 'Intense' is now loaded on deck 0
-[Unload] Unloading previous deck 1 (Take This)
 [Active Deck] Switched to deck 0
 
 === Deck Status ===
 Deck 0: Intense
-Deck 1: [EMPTY]
+Deck 1: Take This
 Active Deck: 0
 ===================
 
@@ -770,11 +760,10 @@ Active Deck: 0
   → Estimated beats: 858  → Compression precision factor: 1
 [Sync BPM] Syncing BPM from 137 to 132
 [Load Complete] 'Destination (ASOT 2024 Anthem)' is now loaded on deck 1
-[Unload] Unloading previous deck 0 (Intense)
 [Active Deck] Switched to deck 1
 
 === Deck Status ===
-Deck 0: [EMPTY]
+Deck 0: Intense
 Deck 1: Destination (ASOT 2024 Anthem)
 Active Deck: 1
 ===================
@@ -807,12 +796,11 @@ Active Deck: 1
   → Estimated beats: 589  → Compression precision factor: 1
 [Sync BPM] Syncing BPM from 125 to 131
 [Load Complete] 'What Took You So Long' is now loaded on deck 0
-[Unload] Unloading previous deck 1 (Destination (ASOT 2024 Anthem))
 [Active Deck] Switched to deck 0
 
 === Deck Status ===
 Deck 0: What Took You So Long
-Deck 1: [EMPTY]
+Deck 1: Destination (ASOT 2024 Anthem)
 Active Deck: 0
 ===================
 
@@ -844,11 +832,10 @@ Active Deck: 0
   → Estimated beats: 470  → Compression precision factor: 1
 [Sync BPM] Syncing BPM from 139 to 132
 [Load Complete] 'Just As You Are' is now loaded on deck 1
-[Unload] Unloading previous deck 0 (What Took You So Long)
 [Active Deck] Switched to deck 1
 
 === Deck Status ===
-Deck 0: [EMPTY]
+Deck 0: What Took You So Long
 Deck 1: Just As You Are
 Active Deck: 1
 ===================
@@ -881,12 +868,11 @@ Active Deck: 1
   → Estimated beats: 694  → Compression precision factor: 1
 [Sync BPM] Syncing BPM from 124 to 131
 [Load Complete] 'The Air I Breathe' is now loaded on deck 0
-[Unload] Unloading previous deck 1 (Just As You Are)
 [Active Deck] Switched to deck 0
 
 === Deck Status ===
 Deck 0: The Air I Breathe
-Deck 1: [EMPTY]
+Deck 1: Just As You Are
 Active Deck: 0
 ===================
 
@@ -918,11 +904,10 @@ Active Deck: 0
   → Estimated beats: 933  → Compression precision factor: 0.6
 [Sync BPM] Syncing BPM from 133 to 128
 [Load Complete] 'For All Time' is now loaded on deck 1
-[Unload] Unloading previous deck 0 (The Air I Breathe)
 [Active Deck] Switched to deck 1
 
 === Deck Status ===
-Deck 0: [EMPTY]
+Deck 0: The Air I Breathe
 Deck 1: For All Time
 Active Deck: 1
 ===================
@@ -955,12 +940,11 @@ Active Deck: 1
   → Estimated beats: 853  → Compression precision factor: 0.6
 [Sync BPM] Syncing BPM from 121 to 127
 [Load Complete] 'We Control The Sunlight' is now loaded on deck 0
-[Unload] Unloading previous deck 1 (For All Time)
 [Active Deck] Switched to deck 0
 
 === Deck Status ===
 Deck 0: We Control The Sunlight
-Deck 1: [EMPTY]
+Deck 1: For All Time
 Active Deck: 0
 ===================
 
@@ -992,11 +976,10 @@ Active Deck: 0
   → Estimated beats: 676  → Compression precision factor: 0.8
 [Sync BPM] Syncing BPM from 130 to 125
 [Load Complete] 'Blueprint' is now loaded on deck 1
-[Unload] Unloading previous deck 0 (We Control The Sunlight)
 [Active Deck] Switched to deck 1
 
 === Deck Status ===
-Deck 0: [EMPTY]
+Deck 0: We Control The Sunlight
 Deck 1: Blueprint
 Active Deck: 1
 ===================
@@ -1029,12 +1012,11 @@ Active Deck: 1
   → Estimated beats: 734  → Compression precision factor: 0.6
 [Sync BPM] Syncing BPM from 136 to 133
 [Load Complete] 'Homeward' is now loaded on deck 0
-[Unload] Unloading previous deck 1 (Blueprint)
 [Active Deck] Switched to deck 0
 
 === Deck Status ===
 Deck 0: Homeward
-Deck 1: [EMPTY]
+Deck 1: Blueprint
 Active Deck: 0
 ===================
 
@@ -1066,11 +1048,10 @@ Active Deck: 0
   → Estimated beats: 635  → Compression precision factor: 0.6
 [Sync BPM] Syncing BPM from 132 to 134
 [Load Complete] 'We're Not Going Home' is now loaded on deck 1
-[Unload] Unloading previous deck 0 (Homeward)
 [Active Deck] Switched to deck 1
 
 === Deck Status ===
-Deck 0: [EMPTY]
+Deck 0: Homeward
 Deck 1: We're Not Going Home
 Active Deck: 1
 ===================
@@ -1103,12 +1084,11 @@ Active Deck: 1
   → Estimated beats: 821  → Compression precision factor: 1
 [Sync BPM] Syncing BPM from 122 to 127
 [Load Complete] 'Lemme Take You' is now loaded on deck 0
-[Unload] Unloading previous deck 1 (We're Not Going Home)
 [Active Deck] Switched to deck 0
 
 === Deck Status ===
 Deck 0: Lemme Take You
-Deck 1: [EMPTY]
+Deck 1: We're Not Going Home
 Active Deck: 0
 ===================
 
@@ -1138,11 +1118,10 @@ Active Deck: 0
   → Estimated beats: 801  → Precision factor: 1 (uncompressed audio)
 [Sync BPM] Syncing BPM from 135 to 128
 [Load Complete] 'Bloodstream' is now loaded on deck 1
-[Unload] Unloading previous deck 0 (Lemme Take You)
 [Active Deck] Switched to deck 1
 
 === Deck Status ===
-Deck 0: [EMPTY]
+Deck 0: Lemme Take You
 Deck 1: Bloodstream
 Active Deck: 1
 ===================
@@ -1175,12 +1154,11 @@ Active Deck: 1
   → Estimated beats: 714  → Compression precision factor: 0.8
 [Sync BPM] Syncing BPM from 126 to 130
 [Load Complete] 'Rock Your Body Rock' is now loaded on deck 0
-[Unload] Unloading previous deck 1 (Bloodstream)
 [Active Deck] Switched to deck 0
 
 === Deck Status ===
 Deck 0: Rock Your Body Rock
-Deck 1: [EMPTY]
+Deck 1: Bloodstream
 Active Deck: 0
 ===================
 
@@ -1212,11 +1190,10 @@ Active Deck: 0
   → Estimated beats: 574  → Compression precision factor: 0.6
 [Sync BPM] Syncing BPM from 121 to 123
 [Load Complete] 'Voema' is now loaded on deck 1
-[Unload] Unloading previous deck 0 (Rock Your Body Rock)
 [Active Deck] Switched to deck 1
 
 === Deck Status ===
-Deck 0: [EMPTY]
+Deck 0: Rock Your Body Rock
 Deck 1: Voema
 Active Deck: 1
 ===================
@@ -1249,12 +1226,11 @@ Active Deck: 1
   → Estimated beats: 699  → Compression precision factor: 0.6
 [Sync BPM] Syncing BPM from 132 to 126
 [Load Complete] 'Not Coming Down' is now loaded on deck 0
-[Unload] Unloading previous deck 1 (Voema)
 [Active Deck] Switched to deck 0
 
 === Deck Status ===
 Deck 0: Not Coming Down
-Deck 1: [EMPTY]
+Deck 1: Voema
 Active Deck: 0
 ===================
 
@@ -1286,11 +1262,10 @@ Active Deck: 0
   → Estimated beats: 660  → Compression precision factor: 0.8
 [Sync BPM] Syncing BPM from 127 to 129
 [Load Complete] 'Mo Chara' is now loaded on deck 1
-[Unload] Unloading previous deck 0 (Not Coming Down)
 [Active Deck] Switched to deck 1
 
 === Deck Status ===
-Deck 0: [EMPTY]
+Deck 0: Not Coming Down
 Deck 1: Mo Chara
 Active Deck: 1
 ===================
@@ -1323,12 +1298,11 @@ Active Deck: 1
   → Estimated beats: 747  → Compression precision factor: 0.6
 [Sync BPM] Syncing BPM from 130 to 128
 [Load Complete] 'Brain Box' is now loaded on deck 0
-[Unload] Unloading previous deck 1 (Mo Chara)
 [Active Deck] Switched to deck 0
 
 === Deck Status ===
 Deck 0: Brain Box
-Deck 1: [EMPTY]
+Deck 1: Mo Chara
 Active Deck: 0
 ===================
 
@@ -1360,11 +1334,10 @@ Active Deck: 0
   → Estimated beats: 707  → Compression precision factor: 0.8
 [Sync BPM] Syncing BPM from 133 to 131
 [Load Complete] 'Sweet Sorrow' is now loaded on deck 1
-[Unload] Unloading previous deck 0 (Brain Box)
 [Active Deck] Switched to deck 1
 
 === Deck Status ===
-Deck 0: [EMPTY]
+Deck 0: Brain Box
 Deck 1: Sweet Sorrow
 Active Deck: 1
 ===================
@@ -1397,12 +1370,11 @@ Active Deck: 1
   → Estimated beats: 660  → Compression precision factor: 0.8
 [Sync BPM] Syncing BPM from 123 to 128
 [Load Complete] 'Ligaya' is now loaded on deck 0
-[Unload] Unloading previous deck 1 (Sweet Sorrow)
 [Active Deck] Switched to deck 0
 
 === Deck Status ===
 Deck 0: Ligaya
-Deck 1: [EMPTY]
+Deck 1: Sweet Sorrow
 Active Deck: 0
 ===================
 
@@ -1432,11 +1404,10 @@ Active Deck: 0
   → Estimated beats: 520  → Precision factor: 1 (uncompressed audio)
 [Sync BPM] Syncing BPM from 130 to 126
 [Load Complete] 'Drum's A Weapon' is now loaded on deck 1
-[Unload] Unloading previous deck 0 (Ligaya)
 [Active Deck] Switched to deck 1
 
 === Deck Status ===
-Deck 0: [EMPTY]
+Deck 0: Ligaya
 Deck 1: Drum's A Weapon
 Active Deck: 1
 ===================
@@ -1670,12 +1641,11 @@ Added 'Dance In The Sunlight (Deluxe Version)' to playlist 'lost_frequencies_tom
   → Estimated beats: 662  → Compression precision factor: 0.8
 [Sync BPM] Syncing BPM from 139 to 134
 [Load Complete] 'Black Thunderclouds (Lost Frequencies 2025 Intro)' is now loaded on deck 0
-[Unload] Unloading previous deck 1 (Drum's A Weapon)
 [Active Deck] Switched to deck 0
 
 === Deck Status ===
 Deck 0: Black Thunderclouds (Lost Frequencies 2025 Intro)
-Deck 1: [EMPTY]
+Deck 1: Drum's A Weapon
 Active Deck: 0
 ===================
 
@@ -1705,11 +1675,10 @@ Active Deck: 0
   → Estimated beats: 584  → Precision factor: 1 (uncompressed audio)
 [Sync BPM] Syncing BPM from 127 to 133
 [Load Complete] 'ID1' is now loaded on deck 1
-[Unload] Unloading previous deck 0 (Black Thunderclouds (Lost Frequencies 2025 Intro))
 [Active Deck] Switched to deck 1
 
 === Deck Status ===
-Deck 0: [EMPTY]
+Deck 0: Black Thunderclouds (Lost Frequencies 2025 Intro)
 Deck 1: ID1
 Active Deck: 1
 ===================
@@ -1742,12 +1711,11 @@ Active Deck: 1
   → Estimated beats: 533  → Compression precision factor: 0.8
 [Sync BPM] Syncing BPM from 126 to 126
 [Load Complete] 'Sun Is Shining' is now loaded on deck 0
-[Unload] Unloading previous deck 1 (ID1)
 [Active Deck] Switched to deck 0
 
 === Deck Status ===
 Deck 0: Sun Is Shining
-Deck 1: [EMPTY]
+Deck 1: ID1
 Active Deck: 0
 ===================
 
@@ -1777,11 +1745,10 @@ Active Deck: 0
   → Estimated beats: 385  → Precision factor: 1 (uncompressed audio)
 [Sync BPM] Syncing BPM from 123 to 124
 [Load Complete] 'Are You With Me' is now loaded on deck 1
-[Unload] Unloading previous deck 0 (Sun Is Shining)
 [Active Deck] Switched to deck 1
 
 === Deck Status ===
-Deck 0: [EMPTY]
+Deck 0: Sun Is Shining
 Deck 1: Are You With Me
 Active Deck: 1
 ===================
@@ -1814,12 +1781,11 @@ Active Deck: 1
   → Estimated beats: 576  → Compression precision factor: 0.8
 [Sync BPM] Syncing BPM from 130 to 126
 [Load Complete] 'Worry About Me' is now loaded on deck 0
-[Unload] Unloading previous deck 1 (Are You With Me)
 [Active Deck] Switched to deck 0
 
 === Deck Status ===
 Deck 0: Worry About Me
-Deck 1: [EMPTY]
+Deck 1: Are You With Me
 Active Deck: 0
 ===================
 
@@ -1849,11 +1815,10 @@ Active Deck: 0
   → Estimated beats: 679  → Precision factor: 1 (uncompressed audio)
 [Sync BPM] Syncing BPM from 131 to 130
 [Load Complete] 'ID2' is now loaded on deck 1
-[Unload] Unloading previous deck 0 (Worry About Me)
 [Active Deck] Switched to deck 1
 
 === Deck Status ===
-Deck 0: [EMPTY]
+Deck 0: Worry About Me
 Deck 1: ID2
 Active Deck: 1
 ===================
@@ -1884,12 +1849,11 @@ Active Deck: 1
   → Estimated beats: 889  → Precision factor: 1 (uncompressed audio)
 [Sync BPM] Syncing BPM from 140 to 135
 [Load Complete] 'Love Is The Only Thing' is now loaded on deck 0
-[Unload] Unloading previous deck 1 (ID2)
 [Active Deck] Switched to deck 0
 
 === Deck Status ===
 Deck 0: Love Is The Only Thing
-Deck 1: [EMPTY]
+Deck 1: ID2
 Active Deck: 0
 ===================
 
@@ -1919,11 +1883,10 @@ Active Deck: 0
   → Estimated beats: 541  → Precision factor: 1 (uncompressed audio)
 [Sync BPM] Syncing BPM from 132 to 136
 [Load Complete] 'Kick The Nation' is now loaded on deck 1
-[Unload] Unloading previous deck 0 (Love Is The Only Thing)
 [Active Deck] Switched to deck 1
 
 === Deck Status ===
-Deck 0: [EMPTY]
+Deck 0: Love Is The Only Thing
 Deck 1: Kick The Nation
 Active Deck: 1
 ===================
@@ -1956,12 +1919,11 @@ Active Deck: 1
   → Estimated beats: 781  → Compression precision factor: 0.8
 [Sync BPM] Syncing BPM from 127 to 129
 [Load Complete] 'Summer Skies (I Love To Cry)' is now loaded on deck 0
-[Unload] Unloading previous deck 1 (Kick The Nation)
 [Active Deck] Switched to deck 0
 
 === Deck Status ===
 Deck 0: Summer Skies (I Love To Cry)
-Deck 1: [EMPTY]
+Deck 1: Kick The Nation
 Active Deck: 0
 ===================
 
@@ -1991,11 +1953,10 @@ Active Deck: 0
   → Estimated beats: 460  → Precision factor: 1 (uncompressed audio)
 [Sync BPM] Syncing BPM from 138 to 132
 [Load Complete] 'Kesariya' is now loaded on deck 1
-[Unload] Unloading previous deck 0 (Summer Skies (I Love To Cry))
 [Active Deck] Switched to deck 1
 
 === Deck Status ===
-Deck 0: [EMPTY]
+Deck 0: Summer Skies (I Love To Cry)
 Deck 1: Kesariya
 Active Deck: 1
 ===================
@@ -2026,12 +1987,11 @@ Active Deck: 1
   → Estimated beats: 679  → Precision factor: 1 (uncompressed audio)
 [Sync BPM] Syncing BPM from 131 to 134
 [Load Complete] 'ID2' is now loaded on deck 0
-[Unload] Unloading previous deck 1 (Kesariya)
 [Active Deck] Switched to deck 0
 
 === Deck Status ===
 Deck 0: ID2
-Deck 1: [EMPTY]
+Deck 1: Kesariya
 Active Deck: 0
 ===================
 
@@ -2063,11 +2023,10 @@ Active Deck: 0
   → Estimated beats: 711  → Compression precision factor: 0.8
 [Sync BPM] Syncing BPM from 126 to 128
 [Load Complete] 'Head Down' is now loaded on deck 1
-[Unload] Unloading previous deck 0 (ID2)
 [Active Deck] Switched to deck 1
 
 === Deck Status ===
-Deck 0: [EMPTY]
+Deck 0: ID2
 Deck 1: Head Down
 Active Deck: 1
 ===================
@@ -2098,12 +2057,11 @@ Active Deck: 1
   → Estimated beats: 914  → Precision factor: 1 (uncompressed audio)
 [Sync BPM] Syncing BPM from 123 to 124
 [Load Complete] 'The Feeling' is now loaded on deck 0
-[Unload] Unloading previous deck 1 (Head Down)
 [Active Deck] Switched to deck 0
 
 === Deck Status ===
 Deck 0: The Feeling
-Deck 1: [EMPTY]
+Deck 1: Head Down
 Active Deck: 0
 ===================
 
@@ -2128,11 +2086,10 @@ Active Deck: 0
   → Estimated beats: 914  → Precision factor: 1 (uncompressed audio)
 [Sync BPM] Syncing BPM from 123 to 123
 [Load Complete] 'The Feeling' is now loaded on deck 1
-[Unload] Unloading previous deck 0 (The Feeling)
 [Active Deck] Switched to deck 1
 
 === Deck Status ===
-Deck 0: [EMPTY]
+Deck 0: The Feeling
 Deck 1: The Feeling
 Active Deck: 1
 ===================
@@ -2165,12 +2122,11 @@ Active Deck: 1
   → Estimated beats: 944  → Compression precision factor: 0.6
 [Sync BPM] Syncing BPM from 133 to 128
 [Load Complete] 'Just Wanna Know' is now loaded on deck 0
-[Unload] Unloading previous deck 1 (The Feeling)
 [Active Deck] Switched to deck 0
 
 === Deck Status ===
 Deck 0: Just Wanna Know
-Deck 1: [EMPTY]
+Deck 1: The Feeling
 Active Deck: 0
 ===================
 
@@ -2200,11 +2156,10 @@ Active Deck: 0
   → Estimated beats: 935  → Precision factor: 1 (uncompressed audio)
 [Sync BPM] Syncing BPM from 129 to 131
 [Load Complete] 'Let Me Blow Ya Mind (Netsky Bootleg)' is now loaded on deck 1
-[Unload] Unloading previous deck 0 (Just Wanna Know)
 [Active Deck] Switched to deck 1
 
 === Deck Status ===
-Deck 0: [EMPTY]
+Deck 0: Just Wanna Know
 Deck 1: Let Me Blow Ya Mind (Netsky Bootleg)
 Active Deck: 1
 ===================
@@ -2237,12 +2192,11 @@ Active Deck: 1
   → Estimated beats: 410  → Compression precision factor: 1
 [Sync BPM] Syncing BPM from 136 to 132
 [Load Complete] 'Where Are You Now' is now loaded on deck 0
-[Unload] Unloading previous deck 1 (Let Me Blow Ya Mind (Netsky Bootleg))
 [Active Deck] Switched to deck 0
 
 === Deck Status ===
 Deck 0: Where Are You Now
-Deck 1: [EMPTY]
+Deck 1: Let Me Blow Ya Mind (Netsky Bootleg)
 Active Deck: 0
 ===================
 
@@ -2268,11 +2222,10 @@ Active Deck: 0
   → Estimated beats: 410  → Compression precision factor: 1
 [Sync BPM] Syncing BPM from 136 to 136
 [Load Complete] 'Where Are You Now' is now loaded on deck 1
-[Unload] Unloading previous deck 0 (Where Are You Now)
 [Active Deck] Switched to deck 1
 
 === Deck Status ===
-Deck 0: [EMPTY]
+Deck 0: Where Are You Now
 Deck 1: Where Are You Now
 Active Deck: 1
 ===================
@@ -2305,12 +2258,11 @@ Active Deck: 1
   → Estimated beats: 782  → Compression precision factor: 0.8
 [Sync BPM] Syncing BPM from 120 to 128
 [Load Complete] 'Voodoo People' is now loaded on deck 0
-[Unload] Unloading previous deck 1 (Where Are You Now)
 [Active Deck] Switched to deck 0
 
 === Deck Status ===
 Deck 0: Voodoo People
-Deck 1: [EMPTY]
+Deck 1: Where Are You Now
 Active Deck: 0
 ===================
 
@@ -2342,11 +2294,10 @@ Active Deck: 0
   → Estimated beats: 512  → Compression precision factor: 0.6
 [Sync BPM] Syncing BPM from 138 to 129
 [Load Complete] 'Freestyler (Rock The Microphone)' is now loaded on deck 1
-[Unload] Unloading previous deck 0 (Voodoo People)
 [Active Deck] Switched to deck 1
 
 === Deck Status ===
-Deck 0: [EMPTY]
+Deck 0: Voodoo People
 Deck 1: Freestyler (Rock The Microphone)
 Active Deck: 1
 ===================
@@ -2377,12 +2328,11 @@ Active Deck: 1
   → Estimated beats: 500  → Precision factor: 1 (uncompressed audio)
 [Sync BPM] Syncing BPM from 124 to 131
 [Load Complete] 'High Hopes' is now loaded on deck 0
-[Unload] Unloading previous deck 1 (Freestyler (Rock The Microphone))
 [Active Deck] Switched to deck 0
 
 === Deck Status ===
 Deck 0: High Hopes
-Deck 1: [EMPTY]
+Deck 1: Freestyler (Rock The Microphone)
 Active Deck: 0
 ===================
 
@@ -2414,11 +2364,10 @@ Active Deck: 0
   → Estimated beats: 534  → Compression precision factor: 0.8
 [Sync BPM] Syncing BPM from 120 to 122
 [Load Complete] 'Reality' is now loaded on deck 1
-[Unload] Unloading previous deck 0 (High Hopes)
 [Active Deck] Switched to deck 1
 
 === Deck Status ===
-Deck 0: [EMPTY]
+Deck 0: High Hopes
 Deck 1: Reality
 Active Deck: 1
 ===================
@@ -2451,12 +2400,11 @@ Active Deck: 1
   → Estimated beats: 534  → Compression precision factor: 0.8
 [Sync BPM] Syncing BPM from 140 to 130
 [Load Complete] 'Black Friday (Pretty Like The Sun)' is now loaded on deck 0
-[Unload] Unloading previous deck 1 (Reality)
 [Active Deck] Switched to deck 0
 
 === Deck Status ===
 Deck 0: Black Friday (Pretty Like The Sun)
-Deck 1: [EMPTY]
+Deck 1: Reality
 Active Deck: 0
 ===================
 
@@ -2482,11 +2430,10 @@ Active Deck: 0
   → Estimated beats: 534  → Compression precision factor: 0.8
 [Sync BPM] Syncing BPM from 140 to 140
 [Load Complete] 'Black Friday (Pretty Like The Sun)' is now loaded on deck 1
-[Unload] Unloading previous deck 0 (Black Friday (Pretty Like The Sun))
 [Active Deck] Switched to deck 1
 
 === Deck Status ===
-Deck 0: [EMPTY]
+Deck 0: Black Friday (Pretty Like The Sun)
 Deck 1: Black Friday (Pretty Like The Sun)
 Active Deck: 1
 ===================
@@ -2519,12 +2466,11 @@ Active Deck: 1
   → Estimated beats: 518  → Compression precision factor: 1
 [Sync BPM] Syncing BPM from 123 to 131
 [Load Complete] 'Innerbloom (RUMPUS Edit)' is now loaded on deck 0
-[Unload] Unloading previous deck 1 (Black Friday (Pretty Like The Sun))
 [Active Deck] Switched to deck 0
 
 === Deck Status ===
 Deck 0: Innerbloom (RUMPUS Edit)
-Deck 1: [EMPTY]
+Deck 1: Black Friday (Pretty Like The Sun)
 Active Deck: 0
 ===================
 
@@ -2556,11 +2502,10 @@ Active Deck: 0
   → Estimated beats: 573  → Compression precision factor: 0.8
 [Sync BPM] Syncing BPM from 135 to 129
 [Load Complete] 'Timeless' is now loaded on deck 1
-[Unload] Unloading previous deck 0 (Innerbloom (RUMPUS Edit))
 [Active Deck] Switched to deck 1
 
 === Deck Status ===
-Deck 0: [EMPTY]
+Deck 0: Innerbloom (RUMPUS Edit)
 Deck 1: Timeless
 Active Deck: 1
 ===================
@@ -2593,12 +2538,11 @@ Active Deck: 1
   → Estimated beats: 883  → Compression precision factor: 1
 [Sync BPM] Syncing BPM from 123 to 129
 [Load Complete] 'Sweet Disposition (A Moment A Love)' is now loaded on deck 0
-[Unload] Unloading previous deck 1 (Timeless)
 [Active Deck] Switched to deck 0
 
 === Deck Status ===
 Deck 0: Sweet Disposition (A Moment A Love)
-Deck 1: [EMPTY]
+Deck 1: Timeless
 Active Deck: 0
 ===================
 
@@ -2630,11 +2574,10 @@ Active Deck: 0
   → Estimated beats: 748  → Compression precision factor: 0.8
 [Sync BPM] Syncing BPM from 121 to 122
 [Load Complete] 'Dance In The Sunlight (Deluxe Version)' is now loaded on deck 1
-[Unload] Unloading previous deck 0 (Sweet Disposition (A Moment A Love))
 [Active Deck] Switched to deck 1
 
 === Deck Status ===
-Deck 0: [EMPTY]
+Deck 0: Sweet Disposition (A Moment A Love)
 Deck 1: Dance In The Sunlight (Deluxe Version)
 Active Deck: 1
 ===================

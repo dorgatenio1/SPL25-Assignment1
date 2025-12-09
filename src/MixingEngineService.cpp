@@ -63,11 +63,11 @@ int MixingEngineService::loadTrackToDeck(const AudioTrack& track) {
     decks[target_deck] = cloned.release();
     std::string title = decks[target_deck]->get_title();
     std::cout << "[Load Complete] '" << title << "' is now loaded on deck " << target_deck << std::endl;
-    if (active_exist) {
-        std::cout << "[Unload] Unloading previous deck " << active_deck << " (" << decks[active_deck]->get_title() << ")" << std::endl;
-        delete decks[active_deck];
-        decks[active_deck] = nullptr; 
-    }
+    // if (active_exist) {
+    //     std::cout << "[Unload] Unloading previous deck " << active_deck << " (" << decks[active_deck]->get_title() << ")" << std::endl;
+    //     delete decks[active_deck];
+    //     decks[active_deck] = nullptr; 
+    // }
     active_deck = target_deck;
     std::cout << "[Active Deck] Switched to deck " << active_deck << std::endl;
     return active_deck; // Placeholder
