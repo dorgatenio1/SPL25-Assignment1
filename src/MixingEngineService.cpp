@@ -11,14 +11,14 @@ MixingEngineService::MixingEngineService()
 {
     decks[0] = decks[1] = nullptr;
     active_deck = 0;
-    std::cout <<"[MixingEngineService] Initialized with 2 empty decks.";
+    std::cout <<"[MixingEngineService] Initialized with 2 empty decks.\n";
 }
 
 /**
  * TODO: Implement MixingEngineService destructor
  */
 MixingEngineService::~MixingEngineService() {
-    std::cout <<"[MixingEngineService] Cleaning up decks.\n";
+    std::cout <<"[MixingEngineService] Cleaning up decks...\n";
     if (decks[0]) {
     delete decks[0];
     decks[0] = nullptr;
@@ -58,9 +58,8 @@ int MixingEngineService::loadTrackToDeck(const AudioTrack& track) {
     cloned->analyze_beatgrid();
 
     if (active_exist && auto_sync) {
-        if (!can_mix_tracks(cloned)) {
             sync_bpm(cloned);
-        }
+        
     }
     decks[target_deck] = cloned.release();
     std::string title = decks[target_deck]->get_title();
@@ -106,7 +105,7 @@ bool MixingEngineService::can_mix_tracks(const PointerWrapper<AudioTrack>& track
     int active_deck_bpm = decks[active_deck]->get_bpm();
     int new_track_bpm = track->get_bpm();
     int bpm_diff = 0;
-    if (new_track_bpm >= active_deck_bpm) {
+    if (new_track_bpm > active_deck_bpm) {
         bpm_diff = new_track_bpm - active_deck_bpm;
     }
     else {

@@ -28,7 +28,7 @@ void WAVTrack::analyze_beatgrid() {
     // 3. Print number of beats and mention uncompressed precision
     // should print "  → Estimated beats: <beats>  → Precision factor: 1.0 (uncompressed audio)"
     long beats = (duration_seconds / 60.0) *bpm;
-    std::cout << "  → Estimated beats: " << beats << "  → Precision factor: 1.0 (uncompressed audio)\n";
+    std::cout << "  → Estimated beats: " << beats << "  → Precision factor: 1 (uncompressed audio)\n";
 }
 
 double WAVTrack::get_quality_score() const {
@@ -58,6 +58,6 @@ double WAVTrack::get_quality_score() const {
 }
 
 PointerWrapper<AudioTrack> WAVTrack::clone() const {
-    WAVTrack* new_track = new WAVTrack(title, artists, duration_seconds, bpm, sample_rate, bit_depth);
-    return PointerWrapper<AudioTrack>(new_track); // Replace with your implementation
+    //WAVTrack* new_track = new WAVTrack(title, artists, duration_seconds, bpm, sample_rate, bit_depth);
+    return PointerWrapper<AudioTrack>(new WAVTrack(*this)); // Replace with your implementation
 }

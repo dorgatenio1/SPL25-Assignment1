@@ -21,6 +21,7 @@ bool LRUCache::put(PointerWrapper<AudioTrack> track) {
     if (!track) {
         return false;
     }
+    
     // טיפול במקרה שהשיר כבר קיים
     if (contains(track->get_title())) {
         get(track->get_title());
@@ -33,8 +34,7 @@ bool LRUCache::put(PointerWrapper<AudioTrack> track) {
 
     //הכנסת השיר ועדכון המונה
     size_t empty = findEmptySlot();
-    slots[empty].store(std::move(track),access_counter);
-    access_counter++;
+    slots[empty].store(std::move(track),++access_counter);
     return true; 
 }
 

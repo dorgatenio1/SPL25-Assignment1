@@ -80,6 +80,9 @@ int DJSession::load_track_to_controller(const std::string& track_name) {
     }
     std::cout << "[System] Loading track '" << track_name << "' to controller..." << std::endl;
     int cache_result = controller_service.loadTrackToCache(*track);
+
+    controller_service.displayCacheStatus();
+
     if (cache_result == 1) {
         stats.cache_hits++;
     }
@@ -109,6 +112,9 @@ bool DJSession::load_track_to_mixer_deck(const std::string& track_title) {
         return false;    
     }
     int index = mixing_service.loadTrackToDeck(*track);
+
+    mixing_service.displayDeckStatus();
+
     if (index == 0) {
         stats.deck_loads_a++;
         stats.transitions++;
@@ -153,7 +159,6 @@ void DJSession::simulate_dj_performance() {
     std::cout << "Cache Capacity: " << session_config.controller_cache_size << " slots (LRU policy)" << std::endl;
     std::cout << "\n--- Processing Tracks ---" << std::endl;
 
-    std::cout << "TODO: Implement the DJ performance simulation workflow here." << std::endl;
     // Your implementation here
     if (play_all) {
         std::vector<std::string> playlist_names;
@@ -271,11 +276,10 @@ void DJSession::print_session_summary() const {
             return;
         }
         for (const std::string& track_title : track_titles) {
-            std::cout << "\n-- Processing: " << track_title << " --" << std::endl;
+            std::cout << "\n--- Processing: " << track_title << " ---" << std::endl;
             stats.tracks_processed++;
             load_track_to_controller(track_title);
             load_track_to_mixer_deck(track_title);
         }
         print_session_summary();
-        stats = SessionStats();
 }
