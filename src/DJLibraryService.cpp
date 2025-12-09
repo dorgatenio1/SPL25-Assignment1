@@ -123,7 +123,7 @@ void DJLibraryService::loadPlaylistFromIndices(const std::string& playlist_name,
     playlist = Playlist(playlist_name);
    
     
-    for (int i = track_indices.size() - 1; i >= 0; --i) {
+    for (size_t i = 0; i < track_indices.size(); ++i) {
         int index = track_indices[i];
 
         if (index < 1 || static_cast<size_t>(index) > library.size()) {
@@ -142,7 +142,6 @@ void DJLibraryService::loadPlaylistFromIndices(const std::string& playlist_name,
             Un_Wrap_track->load();
             Un_Wrap_track->analyze_beatgrid();
             playlist.add_track(Un_Wrap_track);
-            std::cout << "Added '" << Un_Wrap_track->get_title() << "' to playlist '" << playlist_name << "'" << std::endl;
         }          
     }
    
