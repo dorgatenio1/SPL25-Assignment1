@@ -17,8 +17,7 @@ DJLibraryService::~DJLibraryService() {
     library.clear();
 }
 
-DJLibraryService::DJLibraryService(const DJLibraryService& other) {
-    playlist = other.playlist;
+DJLibraryService::DJLibraryService(const DJLibraryService& other) : playlist(other.playlist), library() {
     for (const AudioTrack* original_track : other.library) {
         if (original_track) {
             PointerWrapper<AudioTrack> cloned_track = original_track->clone();
