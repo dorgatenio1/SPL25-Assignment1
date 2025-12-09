@@ -156,7 +156,7 @@ Session: Interactive Session
 Tracks processed: 3
 Cache hits: 0
 Cache misses: 3
-Cache evictions: 3
+Cache evictions: 0
 Deck A loads: 2
 Deck B loads: 1
 Transitions: 3
@@ -353,7 +353,7 @@ Session: Interactive Session
 Tracks processed: 8
 Cache hits: 5
 Cache misses: 3
-Cache evictions: 3
+Cache evictions: 0
 Deck A loads: 4
 Deck B loads: 4
 Transitions: 8
@@ -441,7 +441,7 @@ Session: Interactive Session
 Tracks processed: 10
 Cache hits: 7
 Cache misses: 3
-Cache evictions: 3
+Cache evictions: 0
 Deck A loads: 5
 Deck B loads: 5
 Transitions: 10

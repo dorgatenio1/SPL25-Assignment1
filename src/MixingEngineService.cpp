@@ -59,7 +59,6 @@ int MixingEngineService::loadTrackToDeck(const AudioTrack& track) {
 
     if (active_exist && auto_sync) {
             sync_bpm(cloned);
-        
     }
     decks[target_deck] = cloned.release();
     std::string title = decks[target_deck]->get_title();
@@ -122,6 +121,7 @@ bool MixingEngineService::can_mix_tracks(const PointerWrapper<AudioTrack>& track
  * @param track: Track to synchronize with active deck
  */
 void MixingEngineService::sync_bpm(const PointerWrapper<AudioTrack>& track) const {
+    
     if (decks[active_deck] && track) {
         int og_bpm = track->get_bpm();
         int avg_bpm = (decks[active_deck]->get_bpm() + og_bpm) / 2;
